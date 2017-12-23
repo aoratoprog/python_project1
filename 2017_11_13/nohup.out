@@ -1,0 +1,14 @@
+Usable TA numbers: 77
+(1000, 5, 2172) (1000, 5)
+Up days: 1173
+Rate 134.022
+UpFitness 489
+DownFitness 0
+Generation -1 is end. Gen_End_Time: 75.65688061714172
+Searching End.: 1.9073486328125e-05
+Traceback (most recent call last):
+  File "GeneticAlgorithm.py", line 268, in <module>
+    bestName, maxProfit = ga.start()
+  File "GeneticAlgorithm.py", line 218, in start
+    rol = RouletteSelection.RouletteSelection(self, highestPdNp, rateNp, opt)
+NameError: name 'rateNp' is not defined

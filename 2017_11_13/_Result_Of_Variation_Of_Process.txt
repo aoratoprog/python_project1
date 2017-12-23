@@ -1,0 +1,39 @@
+None MultiProcessing
+Time 6021.439185380936
+
+
+Using Queue
+Processes 2: Time 7135.615200519562
+Processes 3: Time 6225.590991258621
+Processes 4: Time 5587.395068407059
+Processes 5: Time 7310.971651554108
+Processes 6: Time 7802.456865787506
+Processes 7: Time 7808.728164672852
+
+
+Using Pool
+Processes 1: 4553.373493432999 seconds
+Processes 2: 7633.260982275009 seconds
+Processes 3: 5678.780471563339 seconds
+Processes 4: 4403.2194855213165 seconds
+Processes 5: 5410.0962018966675 seconds
+Processes 6: 6671.471230745316 seconds
+Processes 7: 6713.1744911670685 seconds
+
+
+Using Del Funtion ㅡ.ㅡ
+Processes 1: 13174.169784784317 seconds
+Processes 2: 12115.960160255432 seconds
+Processes 3: 12693.56378531456 seconds
+Processes 4: 16825.50839614868 seconds
+Processes 5: 15387.065789461136 seconds
+Processes 6: 11237.795328617096 seconds
+Processes 7: 13712.936968326569 seconds
+
+Using profit is fitness funtion
+INFO:root:Processes 4: 265.5422306060791 seconds 
+MaxProfit=104.428323654
+INFO:root:Processes 4: 376.7386236190796 seconds
+MaxProfit=105.61915159
+INFO:root:Processes 4: 293.720055103302 seconds
+MaxProfit=106.073003058

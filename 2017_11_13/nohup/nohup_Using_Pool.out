@@ -1,0 +1,2814 @@
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-1] child process calling self.run()
+[INFO/ForkPoolWorker-1] process shutting down
+[INFO/ForkPoolWorker-1] process exiting with exitcode 0
+Rate 138.6552077616547
+UpFitness 83
+DownFitness 64
+Generation -1 is end. Gen_End_Time: 393.95638942718506
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.0205841064453125
+rol is end. rol_End_Time: 0.003389596939086914
+[INFO/ForkPoolWorker-2] child process calling self.run()
+[INFO/ForkPoolWorker-2] process shutting down
+[INFO/ForkPoolWorker-2] process exiting with exitcode 0
+Rate 179.97594468035965
+UpFitness 117
+DownFitness 99
+Generation 0 is end. Gen_End_Time: 375.3222825527191
+Average 55.5873130979
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.020337581634521484
+rol is end. rol_End_Time: 0.0035834312438964844
+[INFO/ForkPoolWorker-3] child process calling self.run()
+[INFO/ForkPoolWorker-3] process shutting down
+[INFO/ForkPoolWorker-3] process exiting with exitcode 0
+Rate 155.37353810371164
+UpFitness 95
+DownFitness 75
+Generation 1 is end. Gen_End_Time: 355.38677740097046
+Average 58.3596589321
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.019809484481811523
+rol is end. rol_End_Time: 0.0035631656646728516
+[INFO/ForkPoolWorker-4] child process calling self.run()
+[INFO/ForkPoolWorker-4] process shutting down
+[INFO/ForkPoolWorker-4] process exiting with exitcode 0
+Rate 180.1178909623839
+UpFitness 112
+DownFitness 90
+Generation 2 is end. Gen_End_Time: 298.8791401386261
+Average 63.1767697155
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.025088787078857422
+rol is end. rol_End_Time: 0.005226612091064453
+[INFO/ForkPoolWorker-5] child process calling self.run()
+[INFO/ForkPoolWorker-5] process shutting down
+[INFO/ForkPoolWorker-5] process exiting with exitcode 0
+Rate 179.12892967703633
+UpFitness 18
+DownFitness 0
+Generation 3 is end. Gen_End_Time: 262.55189967155457
+Average 62.6943269429
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.018755435943603516
+rol is end. rol_End_Time: 0.0034983158111572266
+[INFO/ForkPoolWorker-6] child process calling self.run()
+[INFO/ForkPoolWorker-6] process shutting down
+[INFO/ForkPoolWorker-6] process exiting with exitcode 0
+Rate 179.739780839273
+UpFitness 113
+DownFitness 92
+Generation 4 is end. Gen_End_Time: 232.09018278121948
+Average 66.6585066163
+Degenerated gen kill 15
+RouletteSelection is end. RolInit_End_Time: 0.01719808578491211
+rol is end. rol_End_Time: 0.003275156021118164
+[INFO/ForkPoolWorker-7] child process calling self.run()
+[INFO/ForkPoolWorker-7] process shutting down
+[INFO/ForkPoolWorker-7] process exiting with exitcode 0
+Rate 181.05229549392902
+UpFitness 106
+DownFitness 79
+Generation 5 is end. Gen_End_Time: 198.02935433387756
+Average 76.2632074163
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.0178067684173584
+rol is end. rol_End_Time: 0.0036737918853759766
+[INFO/ForkPoolWorker-8] child process calling self.run()
+[INFO/ForkPoolWorker-8] process shutting down
+[INFO/ForkPoolWorker-8] process exiting with exitcode 0
+Rate 212.1842594576558
+UpFitness 136
+DownFitness 113
+Generation 6 is end. Gen_End_Time: 180.8672740459442
+Average 77.6737294594
+Degenerated gen kill 20
+RouletteSelection is end. RolInit_End_Time: 0.016805171966552734
+rol is end. rol_End_Time: 0.0032181739807128906
+[INFO/ForkPoolWorker-9] child process calling self.run()
+[INFO/ForkPoolWorker-9] process shutting down
+[INFO/ForkPoolWorker-9] process exiting with exitcode 0
+Rate 186.612595024653
+UpFitness 133
+DownFitness 124
+Generation 7 is end. Gen_End_Time: 153.12604808807373
+Average 85.1738467383
+Degenerated gen kill 25
+RouletteSelection is end. RolInit_End_Time: 0.0167996883392334
+rol is end. rol_End_Time: 0.002949237823486328
+[INFO/ForkPoolWorker-10] child process calling self.run()
+[INFO/ForkPoolWorker-10] process shutting down
+[INFO/ForkPoolWorker-10] process exiting with exitcode 0
+Rate 178.08717792649213
+UpFitness 105
+DownFitness 79
+Generation 8 is end. Gen_End_Time: 153.10598373413086
+Average 86.3296170527
+Degenerated gen kill 21
+RouletteSelection is end. RolInit_End_Time: 0.01681208610534668
+rol is end. rol_End_Time: 0.003002643585205078
+[INFO/ForkPoolWorker-11] child process calling self.run()
+[INFO/ForkPoolWorker-11] process shutting down
+[INFO/ForkPoolWorker-11] process exiting with exitcode 0
+Rate 199.52432360682172
+UpFitness 111
+DownFitness 77
+Generation 9 is end. Gen_End_Time: 137.46272158622742
+Average 98.6539029054
+Degenerated gen kill 20
+RouletteSelection is end. RolInit_End_Time: 0.018636226654052734
+rol is end. rol_End_Time: 0.0031785964965820312
+[INFO/ForkPoolWorker-12] child process calling self.run()
+[INFO/ForkPoolWorker-12] process shutting down
+[INFO/ForkPoolWorker-12] process exiting with exitcode 0
+Rate 193.51615899621203
+UpFitness 109
+DownFitness 77
+Generation 10 is end. Gen_End_Time: 130.62254571914673
+Average 98.491939176
+Degenerated gen kill 22
+RouletteSelection is end. RolInit_End_Time: 0.018447160720825195
+rol is end. rol_End_Time: 0.0032720565795898438
+[INFO/ForkPoolWorker-13] child process calling self.run()
+[INFO/ForkPoolWorker-13] process shutting down
+[INFO/ForkPoolWorker-13] process exiting with exitcode 0
+Rate 176.53399937035493
+UpFitness 131
+DownFitness 127
+Generation 11 is end. Gen_End_Time: 127.52754759788513
+Average 101.74649252
+Degenerated gen kill 23
+RouletteSelection is end. RolInit_End_Time: 0.016125202178955078
+rol is end. rol_End_Time: 0.0028264522552490234
+[INFO/ForkPoolWorker-14] child process calling self.run()
+[INFO/ForkPoolWorker-14] process shutting down
+[INFO/ForkPoolWorker-14] process exiting with exitcode 0
+Rate 174.96376368014603
+UpFitness 124
+DownFitness 115
+Generation 12 is end. Gen_End_Time: 130.807386636734
+Average 98.7876755852
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.02000713348388672
+rol is end. rol_End_Time: 0.0034821033477783203
+[INFO/ForkPoolWorker-15] child process calling self.run()
+[INFO/ForkPoolWorker-15] process shutting down
+[INFO/ForkPoolWorker-15] process exiting with exitcode 0
+Rate 197.85851121995768
+UpFitness 126
+DownFitness 104
+Generation 13 is end. Gen_End_Time: 113.49365663528442
+Average 101.614985939
+Degenerated gen kill 20
+RouletteSelection is end. RolInit_End_Time: 0.01923823356628418
+rol is end. rol_End_Time: 0.0031995773315429688
+[INFO/ForkPoolWorker-16] child process calling self.run()
+[INFO/ForkPoolWorker-16] process shutting down
+[INFO/ForkPoolWorker-16] process exiting with exitcode 0
+Rate 192.16000780637958
+UpFitness 19
+DownFitness 0
+Generation 14 is end. Gen_End_Time: 107.8607120513916
+Average 107.432654581
+Degenerated gen kill 16
+RouletteSelection is end. RolInit_End_Time: 0.018209457397460938
+rol is end. rol_End_Time: 0.003327608108520508
+[INFO/ForkPoolWorker-17] child process calling self.run()
+[INFO/ForkPoolWorker-17] process shutting down
+[INFO/ForkPoolWorker-17] process exiting with exitcode 0
+Rate 185.7695235326571
+UpFitness 124
+DownFitness 108
+Generation 15 is end. Gen_End_Time: 99.3567442893982
+Average 114.284268132
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.019360780715942383
+rol is end. rol_End_Time: 0.0034894943237304688
+[INFO/ForkPoolWorker-18] child process calling self.run()
+[INFO/ForkPoolWorker-18] process shutting down
+[INFO/ForkPoolWorker-18] process exiting with exitcode 0
+Rate 181.55819084288368
+UpFitness 105
+DownFitness 77
+Generation 16 is end. Gen_End_Time: 91.72385859489441
+Average 113.612958724
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.035411834716796875
+rol is end. rol_End_Time: 0.005391120910644531
+[INFO/ForkPoolWorker-19] child process calling self.run()
+[INFO/ForkPoolWorker-19] process shutting down
+[INFO/ForkPoolWorker-19] process exiting with exitcode 0
+Rate 181.55819084288368
+UpFitness 105
+DownFitness 77
+Generation 17 is end. Gen_End_Time: 91.54157543182373
+Average 119.409039946
+Degenerated gen kill 15
+RouletteSelection is end. RolInit_End_Time: 0.018668174743652344
+rol is end. rol_End_Time: 0.003234386444091797
+[INFO/ForkPoolWorker-20] child process calling self.run()
+[INFO/ForkPoolWorker-20] process shutting down
+[INFO/ForkPoolWorker-20] process exiting with exitcode 0
+Rate 203.62978587279372
+UpFitness 128
+DownFitness 104
+Generation 18 is end. Gen_End_Time: 81.79880738258362
+Average 126.472706904
+Degenerated gen kill 15
+RouletteSelection is end. RolInit_End_Time: 0.018811702728271484
+rol is end. rol_End_Time: 0.0030431747436523438
+[INFO/ForkPoolWorker-21] child process calling self.run()
+[INFO/ForkPoolWorker-21] process shutting down
+[INFO/ForkPoolWorker-21] process exiting with exitcode 0
+Rate 193.51615899621203
+UpFitness 109
+DownFitness 77
+Generation 19 is end. Gen_End_Time: 82.66421699523926
+Average 131.989762815
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.03282809257507324
+rol is end. rol_End_Time: 0.005250453948974609
+[INFO/ForkPoolWorker-22] child process calling self.run()
+[INFO/ForkPoolWorker-22] process shutting down
+[INFO/ForkPoolWorker-22] process exiting with exitcode 0
+Rate 193.51615899621203
+UpFitness 109
+DownFitness 77
+Generation 20 is end. Gen_End_Time: 79.81457614898682
+Average 136.660822324
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.020033597946166992
+rol is end. rol_End_Time: 0.003522157669067383
+[INFO/ForkPoolWorker-23] child process calling self.run()
+[INFO/ForkPoolWorker-23] process shutting down
+[INFO/ForkPoolWorker-23] process exiting with exitcode 0
+Rate 192.43340011107722
+UpFitness 111
+DownFitness 81
+Generation 21 is end. Gen_End_Time: 78.17796802520752
+Average 135.22479035
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.02094244956970215
+rol is end. rol_End_Time: 0.0035288333892822266
+[INFO/ForkPoolWorker-24] child process calling self.run()
+[INFO/ForkPoolWorker-24] process shutting down
+[INFO/ForkPoolWorker-24] process exiting with exitcode 0
+Rate 195.95109612407975
+UpFitness 111
+DownFitness 79
+Generation 22 is end. Gen_End_Time: 80.05985689163208
+Average 136.776391646
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.020591020584106445
+rol is end. rol_End_Time: 0.003502368927001953
+[INFO/ForkPoolWorker-25] child process calling self.run()
+[INFO/ForkPoolWorker-25] process shutting down
+[INFO/ForkPoolWorker-25] process exiting with exitcode 0
+Rate 193.51615899621203
+UpFitness 109
+DownFitness 77
+Generation 23 is end. Gen_End_Time: 73.29832100868225
+Average 136.740745597
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.01996898651123047
+rol is end. rol_End_Time: 0.0033211708068847656
+[INFO/ForkPoolWorker-26] child process calling self.run()
+[INFO/ForkPoolWorker-26] process shutting down
+[INFO/ForkPoolWorker-26] process exiting with exitcode 0
+Rate 195.95109612407975
+UpFitness 111
+DownFitness 79
+Generation 24 is end. Gen_End_Time: 73.69899487495422
+Average 139.668473088
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.019565343856811523
+rol is end. rol_End_Time: 0.003159761428833008
+[INFO/ForkPoolWorker-27] child process calling self.run()
+[INFO/ForkPoolWorker-27] process shutting down
+[INFO/ForkPoolWorker-27] process exiting with exitcode 0
+Rate 198.39317979561133
+UpFitness 113
+DownFitness 81
+Generation 25 is end. Gen_End_Time: 72.57627439498901
+Average 145.773897795
+Degenerated gen kill 1
+RouletteSelection is end. RolInit_End_Time: 0.0245513916015625
+rol is end. rol_End_Time: 0.0035517215728759766
+[INFO/ForkPoolWorker-28] child process calling self.run()
+[INFO/ForkPoolWorker-28] process shutting down
+[INFO/ForkPoolWorker-28] process exiting with exitcode 0
+Rate 198.39317979561133
+UpFitness 113
+DownFitness 81
+Generation 26 is end. Gen_End_Time: 74.51098871231079
+Average 150.560540721
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.034661293029785156
+rol is end. rol_End_Time: 0.006616115570068359
+[INFO/ForkPoolWorker-29] child process calling self.run()
+[INFO/ForkPoolWorker-29] process shutting down
+[INFO/ForkPoolWorker-29] process exiting with exitcode 0
+Rate 198.39317979561133
+UpFitness 113
+DownFitness 81
+Generation 27 is end. Gen_End_Time: 74.12782406806946
+Average 152.120355048
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.029028654098510742
+rol is end. rol_End_Time: 0.005315542221069336
+[INFO/ForkPoolWorker-30] child process calling self.run()
+[INFO/ForkPoolWorker-30] process shutting down
+[INFO/ForkPoolWorker-30] process exiting with exitcode 0
+Rate 195.95109612407975
+UpFitness 111
+DownFitness 79
+Generation 28 is end. Gen_End_Time: 73.03544330596924
+Average 153.934393639
+Degenerated gen kill 1
+RouletteSelection is end. RolInit_End_Time: 0.020592689514160156
+rol is end. rol_End_Time: 0.004836559295654297
+[INFO/ForkPoolWorker-31] child process calling self.run()
+[INFO/ForkPoolWorker-31] process shutting down
+[INFO/ForkPoolWorker-31] process exiting with exitcode 0
+Rate 193.51615899621203
+UpFitness 109
+DownFitness 77
+Generation 29 is end. Gen_End_Time: 71.61463284492493
+Average 155.225862967
+[['ADD' 'HT_DCPHASE' 'MIN' 'MIN' 'ADD' 'MINMAX' 'EMA' 'MINMAXINDEX' 'TEMA'
+  'SMA']]
+Time 4553.373493432999
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-32] child process calling self.run()
+[INFO/ForkPoolWorker-33] child process calling self.run()
+[INFO/ForkPoolWorker-33] process shutting down
+[INFO/ForkPoolWorker-33] process exiting with exitcode 0
+[INFO/ForkPoolWorker-32] process shutting down
+[INFO/ForkPoolWorker-32] process exiting with exitcode 0
+Rate 179.12892967703633
+UpFitness 18
+DownFitness 0
+Generation -1 is end. Gen_End_Time: 399.1669442653656
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.01952052116394043
+rol is end. rol_End_Time: 0.0033178329467773438
+[INFO/ForkPoolWorker-35] child process calling self.run()
+[INFO/ForkPoolWorker-34] child process calling self.run()
+[INFO/ForkPoolWorker-34] process shutting down
+[INFO/ForkPoolWorker-34] process exiting with exitcode 0
+[INFO/ForkPoolWorker-35] process shutting down
+[INFO/ForkPoolWorker-35] process exiting with exitcode 0
+Rate 119.13613477702489
+UpFitness 96
+DownFitness 100
+Generation 0 is end. Gen_End_Time: 387.9122540950775
+Average 54.8789177928
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.02017974853515625
+rol is end. rol_End_Time: 0.003482341766357422
+[INFO/ForkPoolWorker-36] child process calling self.run()
+[INFO/ForkPoolWorker-37] child process calling self.run()
+[INFO/ForkPoolWorker-37] process shutting down
+[INFO/ForkPoolWorker-37] process exiting with exitcode 0
+[INFO/ForkPoolWorker-36] process shutting down
+[INFO/ForkPoolWorker-36] process exiting with exitcode 0
+Rate 166.28064766576585
+UpFitness 17
+DownFitness 0
+Generation 1 is end. Gen_End_Time: 370.82066011428833
+Average 58.5392324881
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.020931243896484375
+rol is end. rol_End_Time: 0.003667116165161133
+[INFO/ForkPoolWorker-38] child process calling self.run()
+[INFO/ForkPoolWorker-39] child process calling self.run()
+[INFO/ForkPoolWorker-39] process shutting down
+[INFO/ForkPoolWorker-39] process exiting with exitcode 0
+[INFO/ForkPoolWorker-38] process shutting down
+[INFO/ForkPoolWorker-38] process exiting with exitcode 0
+Rate 179.12892967703633
+UpFitness 18
+DownFitness 0
+Generation 2 is end. Gen_End_Time: 373.13071274757385
+Average 62.4596668611
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.029741764068603516
+rol is end. rol_End_Time: 0.0034368038177490234
+[INFO/ForkPoolWorker-40] child process calling self.run()
+[INFO/ForkPoolWorker-41] child process calling self.run()
+[INFO/ForkPoolWorker-41] process shutting down
+[INFO/ForkPoolWorker-41] process exiting with exitcode 0
+[INFO/ForkPoolWorker-40] process shutting down
+[INFO/ForkPoolWorker-40] process exiting with exitcode 0
+Rate 162.03144459164218
+UpFitness 114
+DownFitness 105
+Generation 3 is end. Gen_End_Time: 320.54302191734314
+Average 69.149245512
+Degenerated gen kill 14
+RouletteSelection is end. RolInit_End_Time: 0.019124507904052734
+rol is end. rol_End_Time: 0.0032815933227539062
+[INFO/ForkPoolWorker-42] child process calling self.run()
+[INFO/ForkPoolWorker-43] child process calling self.run()
+[INFO/ForkPoolWorker-43] process shutting down
+[INFO/ForkPoolWorker-43] process exiting with exitcode 0
+[INFO/ForkPoolWorker-42] process shutting down
+[INFO/ForkPoolWorker-42] process exiting with exitcode 0
+Rate 182.5296704181356
+UpFitness 119
+DownFitness 101
+Generation 4 is end. Gen_End_Time: 309.0060725212097
+Average 72.0561541694
+Degenerated gen kill 15
+RouletteSelection is end. RolInit_End_Time: 0.018004655838012695
+rol is end. rol_End_Time: 0.003475666046142578
+[INFO/ForkPoolWorker-44] child process calling self.run()
+[INFO/ForkPoolWorker-45] child process calling self.run()
+[INFO/ForkPoolWorker-45] process shutting down
+[INFO/ForkPoolWorker-45] process exiting with exitcode 0
+[INFO/ForkPoolWorker-44] process shutting down
+[INFO/ForkPoolWorker-44] process exiting with exitcode 0
+Rate 179.12892967703633
+UpFitness 18
+DownFitness 0
+Generation 5 is end. Gen_End_Time: 284.3753459453583
+Average 70.2695958288
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.03861498832702637
+rol is end. rol_End_Time: 0.004929065704345703
+[INFO/ForkPoolWorker-46] child process calling self.run()
+[INFO/ForkPoolWorker-47] child process calling self.run()
+[INFO/ForkPoolWorker-47] process shutting down
+[INFO/ForkPoolWorker-47] process exiting with exitcode 0
+[INFO/ForkPoolWorker-46] process shutting down
+[INFO/ForkPoolWorker-46] process exiting with exitcode 0
+Rate 192.16000780637958
+UpFitness 19
+DownFitness 0
+Generation 6 is end. Gen_End_Time: 276.54567193984985
+Average 80.8555571131
+Degenerated gen kill 3
+RouletteSelection is end. RolInit_End_Time: 0.021260499954223633
+rol is end. rol_End_Time: 0.004010677337646484
+[INFO/ForkPoolWorker-49] child process calling self.run()
+[INFO/ForkPoolWorker-48] child process calling self.run()
+[INFO/ForkPoolWorker-48] process shutting down
+[INFO/ForkPoolWorker-48] process exiting with exitcode 0
+[INFO/ForkPoolWorker-49] process shutting down
+[INFO/ForkPoolWorker-49] process exiting with exitcode 0
+Rate 179.12892967703633
+UpFitness 18
+DownFitness 0
+Generation 7 is end. Gen_End_Time: 288.6480016708374
+Average 83.5028798576
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.02164435386657715
+rol is end. rol_End_Time: 0.0035974979400634766
+[INFO/ForkPoolWorker-50] child process calling self.run()
+[INFO/ForkPoolWorker-51] child process calling self.run()
+[INFO/ForkPoolWorker-51] process shutting down
+[INFO/ForkPoolWorker-51] process exiting with exitcode 0
+[INFO/ForkPoolWorker-50] process shutting down
+[INFO/ForkPoolWorker-50] process exiting with exitcode 0
+Rate 192.16000780637958
+UpFitness 19
+DownFitness 0
+Generation 8 is end. Gen_End_Time: 265.6316092014313
+Average 88.7394177618
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.021513700485229492
+rol is end. rol_End_Time: 0.0036613941192626953
+[INFO/ForkPoolWorker-52] child process calling self.run()
+[INFO/ForkPoolWorker-53] child process calling self.run()
+[INFO/ForkPoolWorker-53] process shutting down
+[INFO/ForkPoolWorker-53] process exiting with exitcode 0
+[INFO/ForkPoolWorker-52] process shutting down
+[INFO/ForkPoolWorker-52] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 9 is end. Gen_End_Time: 240.8657476902008
+Average 91.1034600423
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.036728858947753906
+rol is end. rol_End_Time: 0.00585174560546875
+[INFO/ForkPoolWorker-54] child process calling self.run()
+[INFO/ForkPoolWorker-55] child process calling self.run()
+[INFO/ForkPoolWorker-55] process shutting down
+[INFO/ForkPoolWorker-55] process exiting with exitcode 0
+[INFO/ForkPoolWorker-54] process shutting down
+[INFO/ForkPoolWorker-54] process exiting with exitcode 0
+Rate 195.91078838917298
+UpFitness 108
+DownFitness 74
+Generation 10 is end. Gen_End_Time: 234.25544118881226
+Average 99.4655347556
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020511150360107422
+rol is end. rol_End_Time: 0.003725290298461914
+[INFO/ForkPoolWorker-56] child process calling self.run()
+[INFO/ForkPoolWorker-57] child process calling self.run()
+[INFO/ForkPoolWorker-57] process shutting down
+[INFO/ForkPoolWorker-57] process exiting with exitcode 0
+[INFO/ForkPoolWorker-56] process shutting down
+[INFO/ForkPoolWorker-56] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 11 is end. Gen_End_Time: 214.72837924957275
+Average 100.606551267
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.021382570266723633
+rol is end. rol_End_Time: 0.003560304641723633
+[INFO/ForkPoolWorker-58] child process calling self.run()
+[INFO/ForkPoolWorker-59] child process calling self.run()
+[INFO/ForkPoolWorker-59] process shutting down
+[INFO/ForkPoolWorker-59] process exiting with exitcode 0
+[INFO/ForkPoolWorker-58] process shutting down
+[INFO/ForkPoolWorker-58] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 12 is end. Gen_End_Time: 195.54697108268738
+Average 109.124917582
+Degenerated gen kill 3
+RouletteSelection is end. RolInit_End_Time: 0.021396636962890625
+rol is end. rol_End_Time: 0.0040531158447265625
+[INFO/ForkPoolWorker-60] child process calling self.run()
+[INFO/ForkPoolWorker-61] child process calling self.run()
+[INFO/ForkPoolWorker-61] process shutting down
+[INFO/ForkPoolWorker-61] process exiting with exitcode 0
+[INFO/ForkPoolWorker-60] process shutting down
+[INFO/ForkPoolWorker-60] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 13 is end. Gen_End_Time: 198.1402404308319
+Average 113.11499934
+Degenerated gen kill 3
+RouletteSelection is end. RolInit_End_Time: 0.021181106567382812
+rol is end. rol_End_Time: 0.0038061141967773438
+[INFO/ForkPoolWorker-62] child process calling self.run()
+[INFO/ForkPoolWorker-63] child process calling self.run()
+[INFO/ForkPoolWorker-63] process shutting down
+[INFO/ForkPoolWorker-63] process exiting with exitcode 0
+[INFO/ForkPoolWorker-62] process shutting down
+[INFO/ForkPoolWorker-62] process exiting with exitcode 0
+Rate 207.72184574669978
+UpFitness 29
+DownFitness 1
+Generation 14 is end. Gen_End_Time: 189.5871250629425
+Average 114.590022809
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.021857500076293945
+rol is end. rol_End_Time: 0.0040781497955322266
+[INFO/ForkPoolWorker-64] child process calling self.run()
+[INFO/ForkPoolWorker-65] child process calling self.run()
+[INFO/ForkPoolWorker-65] process shutting down
+[INFO/ForkPoolWorker-65] process exiting with exitcode 0
+[INFO/ForkPoolWorker-64] process shutting down
+[INFO/ForkPoolWorker-64] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 15 is end. Gen_End_Time: 197.03568410873413
+Average 135.749404331
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.02483844757080078
+rol is end. rol_End_Time: 0.003960609436035156
+[INFO/ForkPoolWorker-66] child process calling self.run()
+[INFO/ForkPoolWorker-67] child process calling self.run()
+[INFO/ForkPoolWorker-67] process shutting down
+[INFO/ForkPoolWorker-67] process exiting with exitcode 0
+[INFO/ForkPoolWorker-66] process shutting down
+[INFO/ForkPoolWorker-66] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 16 is end. Gen_End_Time: 196.72027778625488
+Average 128.97244315
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.02190566062927246
+rol is end. rol_End_Time: 0.003496408462524414
+[INFO/ForkPoolWorker-68] child process calling self.run()
+[INFO/ForkPoolWorker-69] child process calling self.run()
+[INFO/ForkPoolWorker-69] process shutting down
+[INFO/ForkPoolWorker-69] process exiting with exitcode 0
+[INFO/ForkPoolWorker-68] process shutting down
+[INFO/ForkPoolWorker-68] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 17 is end. Gen_End_Time: 202.89910578727722
+Average 131.686865964
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.020962238311767578
+rol is end. rol_End_Time: 0.0037043094635009766
+[INFO/ForkPoolWorker-70] child process calling self.run()
+[INFO/ForkPoolWorker-71] child process calling self.run()
+[INFO/ForkPoolWorker-71] process shutting down
+[INFO/ForkPoolWorker-71] process exiting with exitcode 0
+[INFO/ForkPoolWorker-70] process shutting down
+[INFO/ForkPoolWorker-70] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 18 is end. Gen_End_Time: 212.87602734565735
+Average 139.414535404
+Degenerated gen kill 3
+RouletteSelection is end. RolInit_End_Time: 0.021239042282104492
+rol is end. rol_End_Time: 0.0035233497619628906
+[INFO/ForkPoolWorker-72] child process calling self.run()
+[INFO/ForkPoolWorker-73] child process calling self.run()
+[INFO/ForkPoolWorker-73] process shutting down
+[INFO/ForkPoolWorker-73] process exiting with exitcode 0
+[INFO/ForkPoolWorker-72] process shutting down
+[INFO/ForkPoolWorker-72] process exiting with exitcode 0
+Rate 245.93610284141837
+UpFitness 23
+DownFitness 0
+Generation 19 is end. Gen_End_Time: 206.08924078941345
+Average 135.449215602
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.02057790756225586
+rol is end. rol_End_Time: 0.00410771369934082
+[INFO/ForkPoolWorker-74] child process calling self.run()
+[INFO/ForkPoolWorker-75] child process calling self.run()
+[INFO/ForkPoolWorker-75] process shutting down
+[INFO/ForkPoolWorker-75] process exiting with exitcode 0
+[INFO/ForkPoolWorker-74] process shutting down
+[INFO/ForkPoolWorker-74] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 20 is end. Gen_End_Time: 208.43207263946533
+Average 144.237000177
+Degenerated gen kill 1
+RouletteSelection is end. RolInit_End_Time: 0.021983623504638672
+rol is end. rol_End_Time: 0.003788471221923828
+[INFO/ForkPoolWorker-76] child process calling self.run()
+[INFO/ForkPoolWorker-77] child process calling self.run()
+[INFO/ForkPoolWorker-77] process shutting down
+[INFO/ForkPoolWorker-77] process exiting with exitcode 0
+[INFO/ForkPoolWorker-76] process shutting down
+[INFO/ForkPoolWorker-76] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 21 is end. Gen_End_Time: 208.7612588405609
+Average 150.818089803
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.021895647048950195
+rol is end. rol_End_Time: 0.0035033226013183594
+[INFO/ForkPoolWorker-78] child process calling self.run()
+[INFO/ForkPoolWorker-79] child process calling self.run()
+[INFO/ForkPoolWorker-79] process shutting down
+[INFO/ForkPoolWorker-79] process exiting with exitcode 0
+[INFO/ForkPoolWorker-78] process shutting down
+[INFO/ForkPoolWorker-78] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 22 is end. Gen_End_Time: 210.83117771148682
+Average 149.376743159
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.02043747901916504
+rol is end. rol_End_Time: 0.004098176956176758
+[INFO/ForkPoolWorker-80] child process calling self.run()
+[INFO/ForkPoolWorker-81] child process calling self.run()
+[INFO/ForkPoolWorker-81] process shutting down
+[INFO/ForkPoolWorker-81] process exiting with exitcode 0
+[INFO/ForkPoolWorker-80] process shutting down
+[INFO/ForkPoolWorker-80] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 23 is end. Gen_End_Time: 214.18779611587524
+Average 156.451891706
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.022025108337402344
+rol is end. rol_End_Time: 0.0037484169006347656
+[INFO/ForkPoolWorker-82] child process calling self.run()
+[INFO/ForkPoolWorker-83] child process calling self.run()
+[INFO/ForkPoolWorker-83] process shutting down
+[INFO/ForkPoolWorker-83] process exiting with exitcode 0
+[INFO/ForkPoolWorker-82] process shutting down
+[INFO/ForkPoolWorker-82] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 24 is end. Gen_End_Time: 194.83071970939636
+Average 161.894401218
+Degenerated gen kill 1
+RouletteSelection is end. RolInit_End_Time: 0.02176499366760254
+rol is end. rol_End_Time: 0.005506277084350586
+[INFO/ForkPoolWorker-84] child process calling self.run()
+[INFO/ForkPoolWorker-85] child process calling self.run()
+[INFO/ForkPoolWorker-85] process shutting down
+[INFO/ForkPoolWorker-85] process exiting with exitcode 0
+[INFO/ForkPoolWorker-84] process shutting down
+[INFO/ForkPoolWorker-84] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 25 is end. Gen_End_Time: 193.7975733280182
+Average 150.908507826
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.0225069522857666
+rol is end. rol_End_Time: 0.003933429718017578
+[INFO/ForkPoolWorker-86] child process calling self.run()
+[INFO/ForkPoolWorker-87] child process calling self.run()
+[INFO/ForkPoolWorker-87] process shutting down
+[INFO/ForkPoolWorker-87] process exiting with exitcode 0
+[INFO/ForkPoolWorker-86] process shutting down
+[INFO/ForkPoolWorker-86] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 26 is end. Gen_End_Time: 200.14208555221558
+Average 163.796978149
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.02200627326965332
+rol is end. rol_End_Time: 0.003778219223022461
+[INFO/ForkPoolWorker-88] child process calling self.run()
+[INFO/ForkPoolWorker-89] child process calling self.run()
+[INFO/ForkPoolWorker-89] process shutting down
+[INFO/ForkPoolWorker-89] process exiting with exitcode 0
+[INFO/ForkPoolWorker-88] process shutting down
+[INFO/ForkPoolWorker-88] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 27 is end. Gen_End_Time: 209.66587615013123
+Average 175.497922143
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.022182941436767578
+rol is end. rol_End_Time: 0.003854990005493164
+[INFO/ForkPoolWorker-90] child process calling self.run()
+[INFO/ForkPoolWorker-91] child process calling self.run()
+[INFO/ForkPoolWorker-91] process shutting down
+[INFO/ForkPoolWorker-91] process exiting with exitcode 0
+[INFO/ForkPoolWorker-90] process shutting down
+[INFO/ForkPoolWorker-90] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 28 is end. Gen_End_Time: 212.46203923225403
+Average 178.126487047
+Degenerated gen kill 0
+RouletteSelection is end. RolInit_End_Time: 0.021892786026000977
+rol is end. rol_End_Time: 0.0038366317749023438
+[INFO/ForkPoolWorker-92] child process calling self.run()
+[INFO/ForkPoolWorker-93] child process calling self.run()
+[INFO/ForkPoolWorker-93] process shutting down
+[INFO/ForkPoolWorker-93] process exiting with exitcode 0
+[INFO/ForkPoolWorker-92] process shutting down
+[INFO/ForkPoolWorker-92] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 29 is end. Gen_End_Time: 211.30320858955383
+Average 184.492859109
+[['TRIX' 'LINEARREG_SLOPE' 'HT_SINE' 'TRIMA' 'MIDPOINT' 'DEMA' 'EMA' 'TRIX'
+  'EMA' 'T3']]
+Time 7633.260982275009
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-94] child process calling self.run()
+[INFO/ForkPoolWorker-95] child process calling self.run()
+[INFO/ForkPoolWorker-96] child process calling self.run()
+[INFO/ForkPoolWorker-95] process shutting down
+[INFO/ForkPoolWorker-96] process shutting down
+[INFO/ForkPoolWorker-95] process exiting with exitcode 0
+[INFO/ForkPoolWorker-96] process exiting with exitcode 0
+[INFO/ForkPoolWorker-94] process shutting down
+[INFO/ForkPoolWorker-94] process exiting with exitcode 0
+Rate 136.0422302196403
+UpFitness 70
+DownFitness 44
+Generation -1 is end. Gen_End_Time: 403.90678238868713
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.018243789672851562
+rol is end. rol_End_Time: 0.003858327865600586
+[INFO/ForkPoolWorker-97] child process calling self.run()
+[INFO/ForkPoolWorker-98] child process calling self.run()
+[INFO/ForkPoolWorker-99] child process calling self.run()
+[INFO/ForkPoolWorker-98] process shutting down
+[INFO/ForkPoolWorker-99] process shutting down
+[INFO/ForkPoolWorker-98] process exiting with exitcode 0
+[INFO/ForkPoolWorker-99] process exiting with exitcode 0
+[INFO/ForkPoolWorker-97] process shutting down
+[INFO/ForkPoolWorker-97] process exiting with exitcode 0
+Rate 168.50648040311575
+UpFitness 108
+DownFitness 90
+Generation 0 is end. Gen_End_Time: 372.38771748542786
+Average 63.3315633055
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.022324323654174805
+rol is end. rol_End_Time: 0.003206491470336914
+[INFO/ForkPoolWorker-100] child process calling self.run()
+[INFO/ForkPoolWorker-101] child process calling self.run()
+[INFO/ForkPoolWorker-102] child process calling self.run()
+[INFO/ForkPoolWorker-101] process shutting down
+[INFO/ForkPoolWorker-101] process exiting with exitcode 0
+[INFO/ForkPoolWorker-102] process shutting down
+[INFO/ForkPoolWorker-102] process exiting with exitcode 0
+[INFO/ForkPoolWorker-100] process shutting down
+[INFO/ForkPoolWorker-100] process exiting with exitcode 0
+Rate 177.87390906610165
+UpFitness 102
+DownFitness 74
+Generation 1 is end. Gen_End_Time: 375.0118978023529
+Average 61.2014729693
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.0202181339263916
+rol is end. rol_End_Time: 0.0037865638732910156
+[INFO/ForkPoolWorker-103] child process calling self.run()
+[INFO/ForkPoolWorker-104] child process calling self.run()
+[INFO/ForkPoolWorker-105] child process calling self.run()
+[INFO/ForkPoolWorker-104] process shutting down
+[INFO/ForkPoolWorker-104] process exiting with exitcode 0
+[INFO/ForkPoolWorker-105] process shutting down
+[INFO/ForkPoolWorker-105] process exiting with exitcode 0
+[INFO/ForkPoolWorker-103] process shutting down
+[INFO/ForkPoolWorker-103] process exiting with exitcode 0
+Rate 177.59389294595388
+UpFitness 110
+DownFitness 88
+Generation 2 is end. Gen_End_Time: 311.8247802257538
+Average 72.4507790071
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.01904773712158203
+rol is end. rol_End_Time: 0.003240823745727539
+[INFO/ForkPoolWorker-106] child process calling self.run()
+[INFO/ForkPoolWorker-107] child process calling self.run()
+[INFO/ForkPoolWorker-108] child process calling self.run()
+[INFO/ForkPoolWorker-107] process shutting down
+[INFO/ForkPoolWorker-108] process shutting down
+[INFO/ForkPoolWorker-107] process exiting with exitcode 0
+[INFO/ForkPoolWorker-108] process exiting with exitcode 0
+[INFO/ForkPoolWorker-106] process shutting down
+[INFO/ForkPoolWorker-106] process exiting with exitcode 0
+Rate 189.97711371329598
+UpFitness 109
+DownFitness 79
+Generation 3 is end. Gen_End_Time: 239.84875917434692
+Average 80.7568327982
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.019070148468017578
+rol is end. rol_End_Time: 0.003499746322631836
+[INFO/ForkPoolWorker-109] child process calling self.run()
+[INFO/ForkPoolWorker-110] child process calling self.run()
+[INFO/ForkPoolWorker-111] child process calling self.run()
+[INFO/ForkPoolWorker-110] process shutting down
+[INFO/ForkPoolWorker-111] process shutting down
+[INFO/ForkPoolWorker-111] process exiting with exitcode 0
+[INFO/ForkPoolWorker-110] process exiting with exitcode 0
+[INFO/ForkPoolWorker-109] process shutting down
+[INFO/ForkPoolWorker-109] process exiting with exitcode 0
+Rate 146.76277366118842
+UpFitness 127
+DownFitness 140
+Generation 4 is end. Gen_End_Time: 239.95909237861633
+Average 74.8093535786
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.019583940505981445
+rol is end. rol_End_Time: 0.003469228744506836
+[INFO/ForkPoolWorker-112] child process calling self.run()
+[INFO/ForkPoolWorker-113] child process calling self.run()
+[INFO/ForkPoolWorker-114] child process calling self.run()
+[INFO/ForkPoolWorker-113] process shutting down
+[INFO/ForkPoolWorker-114] process shutting down
+[INFO/ForkPoolWorker-113] process exiting with exitcode 0
+[INFO/ForkPoolWorker-114] process exiting with exitcode 0
+[INFO/ForkPoolWorker-112] process shutting down
+[INFO/ForkPoolWorker-112] process exiting with exitcode 0
+Rate 214.34384676928065
+UpFitness 74
+DownFitness 21
+Generation 5 is end. Gen_End_Time: 231.87347745895386
+Average 80.0390994781
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.01913309097290039
+rol is end. rol_End_Time: 0.0036287307739257812
+[INFO/ForkPoolWorker-115] child process calling self.run()
+[INFO/ForkPoolWorker-116] child process calling self.run()
+[INFO/ForkPoolWorker-117] child process calling self.run()
+[INFO/ForkPoolWorker-116] process shutting down
+[INFO/ForkPoolWorker-117] process shutting down
+[INFO/ForkPoolWorker-116] process exiting with exitcode 0
+[INFO/ForkPoolWorker-117] process exiting with exitcode 0
+[INFO/ForkPoolWorker-115] process shutting down
+[INFO/ForkPoolWorker-115] process exiting with exitcode 0
+Rate 224.84400226044545
+UpFitness 46
+DownFitness 4
+Generation 6 is end. Gen_End_Time: 235.35800457000732
+Average 81.0765887313
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.02010059356689453
+rol is end. rol_End_Time: 0.0036439895629882812
+[INFO/ForkPoolWorker-118] child process calling self.run()
+[INFO/ForkPoolWorker-119] child process calling self.run()
+[INFO/ForkPoolWorker-120] child process calling self.run()
+[INFO/ForkPoolWorker-119] process shutting down
+[INFO/ForkPoolWorker-119] process exiting with exitcode 0
+[INFO/ForkPoolWorker-120] process shutting down
+[INFO/ForkPoolWorker-120] process exiting with exitcode 0
+[INFO/ForkPoolWorker-118] process shutting down
+[INFO/ForkPoolWorker-118] process exiting with exitcode 0
+Rate 191.16802234766396
+UpFitness 133
+DownFitness 121
+Generation 7 is end. Gen_End_Time: 221.8364360332489
+Average 87.0749987434
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.020259618759155273
+rol is end. rol_End_Time: 0.003702878952026367
+[INFO/ForkPoolWorker-121] child process calling self.run()
+[INFO/ForkPoolWorker-122] child process calling self.run()
+[INFO/ForkPoolWorker-123] child process calling self.run()
+[INFO/ForkPoolWorker-122] process shutting down
+[INFO/ForkPoolWorker-123] process shutting down
+[INFO/ForkPoolWorker-123] process exiting with exitcode 0
+[INFO/ForkPoolWorker-122] process exiting with exitcode 0
+[INFO/ForkPoolWorker-121] process shutting down
+[INFO/ForkPoolWorker-121] process exiting with exitcode 0
+Rate 188.2281724022764
+UpFitness 109
+DownFitness 80
+Generation 8 is end. Gen_End_Time: 212.45776295661926
+Average 84.1850956586
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.020097970962524414
+rol is end. rol_End_Time: 0.003780364990234375
+[INFO/ForkPoolWorker-124] child process calling self.run()
+[INFO/ForkPoolWorker-125] child process calling self.run()
+[INFO/ForkPoolWorker-126] child process calling self.run()
+[INFO/ForkPoolWorker-125] process shutting down
+[INFO/ForkPoolWorker-126] process shutting down
+[INFO/ForkPoolWorker-126] process exiting with exitcode 0
+[INFO/ForkPoolWorker-125] process exiting with exitcode 0
+[INFO/ForkPoolWorker-124] process shutting down
+[INFO/ForkPoolWorker-124] process exiting with exitcode 0
+Rate 192.43370028511566
+UpFitness 123
+DownFitness 102
+Generation 9 is end. Gen_End_Time: 189.31428575515747
+Average 88.8789330985
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.020033597946166992
+rol is end. rol_End_Time: 0.0034313201904296875
+[INFO/ForkPoolWorker-127] child process calling self.run()
+[INFO/ForkPoolWorker-128] child process calling self.run()
+[INFO/ForkPoolWorker-129] child process calling self.run()
+[INFO/ForkPoolWorker-128] process shutting down
+[INFO/ForkPoolWorker-129] process shutting down
+[INFO/ForkPoolWorker-128] process exiting with exitcode 0
+[INFO/ForkPoolWorker-129] process exiting with exitcode 0
+[INFO/ForkPoolWorker-127] process shutting down
+[INFO/ForkPoolWorker-127] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 10 is end. Gen_End_Time: 190.2105860710144
+Average 93.1466006589
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.02924656867980957
+rol is end. rol_End_Time: 0.003960847854614258
+[INFO/ForkPoolWorker-130] child process calling self.run()
+[INFO/ForkPoolWorker-131] child process calling self.run()
+[INFO/ForkPoolWorker-132] child process calling self.run()
+[INFO/ForkPoolWorker-131] process shutting down
+[INFO/ForkPoolWorker-131] process exiting with exitcode 0
+[INFO/ForkPoolWorker-132] process shutting down
+[INFO/ForkPoolWorker-132] process exiting with exitcode 0
+[INFO/ForkPoolWorker-130] process shutting down
+[INFO/ForkPoolWorker-130] process exiting with exitcode 0
+Rate 215.37313911915226
+UpFitness 72
+DownFitness 19
+Generation 11 is end. Gen_End_Time: 173.97629952430725
+Average 97.639864131
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.02004408836364746
+rol is end. rol_End_Time: 0.003389120101928711
+[INFO/ForkPoolWorker-133] child process calling self.run()
+[INFO/ForkPoolWorker-134] child process calling self.run()
+[INFO/ForkPoolWorker-135] child process calling self.run()
+[INFO/ForkPoolWorker-135] process shutting down
+[INFO/ForkPoolWorker-134] process shutting down
+[INFO/ForkPoolWorker-135] process exiting with exitcode 0
+[INFO/ForkPoolWorker-134] process exiting with exitcode 0
+[INFO/ForkPoolWorker-133] process shutting down
+[INFO/ForkPoolWorker-133] process exiting with exitcode 0
+Rate 225.3378979537942
+UpFitness 79
+DownFitness 23
+Generation 12 is end. Gen_End_Time: 178.5253610610962
+Average 101.030259329
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.019695520401000977
+rol is end. rol_End_Time: 0.004102230072021484
+[INFO/ForkPoolWorker-136] child process calling self.run()
+[INFO/ForkPoolWorker-137] child process calling self.run()
+[INFO/ForkPoolWorker-138] child process calling self.run()
+[INFO/ForkPoolWorker-137] process shutting down
+[INFO/ForkPoolWorker-138] process shutting down
+[INFO/ForkPoolWorker-137] process exiting with exitcode 0
+[INFO/ForkPoolWorker-138] process exiting with exitcode 0
+[INFO/ForkPoolWorker-136] process shutting down
+[INFO/ForkPoolWorker-136] process exiting with exitcode 0
+Rate 196.72766423239543
+UpFitness 65
+DownFitness 17
+Generation 13 is end. Gen_End_Time: 160.7851710319519
+Average 107.951785524
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.019554615020751953
+rol is end. rol_End_Time: 0.003586292266845703
+[INFO/ForkPoolWorker-139] child process calling self.run()
+[INFO/ForkPoolWorker-140] child process calling self.run()
+[INFO/ForkPoolWorker-141] child process calling self.run()
+[INFO/ForkPoolWorker-140] process shutting down
+[INFO/ForkPoolWorker-141] process shutting down
+[INFO/ForkPoolWorker-141] process exiting with exitcode 0
+[INFO/ForkPoolWorker-140] process exiting with exitcode 0
+[INFO/ForkPoolWorker-139] process shutting down
+[INFO/ForkPoolWorker-139] process exiting with exitcode 0
+Rate 199.12082273203072
+UpFitness 75
+DownFitness 26
+Generation 14 is end. Gen_End_Time: 137.52106499671936
+Average 112.570601006
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.03361153602600098
+rol is end. rol_End_Time: 0.005608320236206055
+[INFO/ForkPoolWorker-142] child process calling self.run()
+[INFO/ForkPoolWorker-143] child process calling self.run()
+[INFO/ForkPoolWorker-144] child process calling self.run()
+[INFO/ForkPoolWorker-143] process shutting down
+[INFO/ForkPoolWorker-144] process shutting down
+[INFO/ForkPoolWorker-143] process exiting with exitcode 0
+[INFO/ForkPoolWorker-144] process exiting with exitcode 0
+[INFO/ForkPoolWorker-142] process shutting down
+[INFO/ForkPoolWorker-142] process exiting with exitcode 0
+Rate 231.4197844844193
+UpFitness 76
+DownFitness 19
+Generation 15 is end. Gen_End_Time: 145.43130135536194
+Average 115.84809238
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.019934654235839844
+rol is end. rol_End_Time: 0.0037467479705810547
+[INFO/ForkPoolWorker-145] child process calling self.run()
+[INFO/ForkPoolWorker-146] child process calling self.run()
+[INFO/ForkPoolWorker-147] child process calling self.run()
+[INFO/ForkPoolWorker-146] process shutting down
+[INFO/ForkPoolWorker-146] process exiting with exitcode 0
+[INFO/ForkPoolWorker-147] process shutting down
+[INFO/ForkPoolWorker-147] process exiting with exitcode 0
+[INFO/ForkPoolWorker-145] process shutting down
+[INFO/ForkPoolWorker-145] process exiting with exitcode 0
+Rate 215.39108520589338
+UpFitness 136
+DownFitness 111
+Generation 16 is end. Gen_End_Time: 133.4738254547119
+Average 121.776434744
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020282268524169922
+rol is end. rol_End_Time: 0.0036003589630126953
+[INFO/ForkPoolWorker-148] child process calling self.run()
+[INFO/ForkPoolWorker-149] child process calling self.run()
+[INFO/ForkPoolWorker-150] child process calling self.run()
+[INFO/ForkPoolWorker-149] process shutting down
+[INFO/ForkPoolWorker-149] process exiting with exitcode 0
+[INFO/ForkPoolWorker-150] process shutting down
+[INFO/ForkPoolWorker-150] process exiting with exitcode 0
+[INFO/ForkPoolWorker-148] process shutting down
+[INFO/ForkPoolWorker-148] process exiting with exitcode 0
+Rate 273.7133270336324
+UpFitness 25
+DownFitness 0
+Generation 17 is end. Gen_End_Time: 133.85892462730408
+Average 130.950634562
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.019879579544067383
+rol is end. rol_End_Time: 0.0033462047576904297
+[INFO/ForkPoolWorker-151] child process calling self.run()
+[INFO/ForkPoolWorker-152] child process calling self.run()
+[INFO/ForkPoolWorker-153] child process calling self.run()
+[INFO/ForkPoolWorker-152] process shutting down
+[INFO/ForkPoolWorker-152] process exiting with exitcode 0
+[INFO/ForkPoolWorker-153] process shutting down
+[INFO/ForkPoolWorker-153] process exiting with exitcode 0
+[INFO/ForkPoolWorker-151] process shutting down
+[INFO/ForkPoolWorker-151] process exiting with exitcode 0
+Rate 259.7558982122115
+UpFitness 24
+DownFitness 0
+Generation 18 is end. Gen_End_Time: 137.5637378692627
+Average 141.413302094
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.037296295166015625
+rol is end. rol_End_Time: 0.005737781524658203
+[INFO/ForkPoolWorker-154] child process calling self.run()
+[INFO/ForkPoolWorker-155] child process calling self.run()
+[INFO/ForkPoolWorker-156] child process calling self.run()
+[INFO/ForkPoolWorker-155] process shutting down
+[INFO/ForkPoolWorker-156] process shutting down
+[INFO/ForkPoolWorker-155] process exiting with exitcode 0
+[INFO/ForkPoolWorker-156] process exiting with exitcode 0
+[INFO/ForkPoolWorker-154] process shutting down
+[INFO/ForkPoolWorker-154] process exiting with exitcode 0
+Rate 287.8029382867962
+UpFitness 26
+DownFitness 0
+Generation 19 is end. Gen_End_Time: 132.39485335350037
+Average 144.404597763
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.01948404312133789
+rol is end. rol_End_Time: 0.0032761096954345703
+[INFO/ForkPoolWorker-157] child process calling self.run()
+[INFO/ForkPoolWorker-158] child process calling self.run()
+[INFO/ForkPoolWorker-159] child process calling self.run()
+[INFO/ForkPoolWorker-158] process shutting down
+[INFO/ForkPoolWorker-159] process shutting down
+[INFO/ForkPoolWorker-159] process exiting with exitcode 0
+[INFO/ForkPoolWorker-158] process exiting with exitcode 0
+[INFO/ForkPoolWorker-157] process shutting down
+[INFO/ForkPoolWorker-157] process exiting with exitcode 0
+Rate 225.1475376870519
+UpFitness 83
+DownFitness 27
+Generation 20 is end. Gen_End_Time: 120.97579503059387
+Average 146.717535603
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.021490097045898438
+rol is end. rol_End_Time: 0.003468751907348633
+[INFO/ForkPoolWorker-160] child process calling self.run()
+[INFO/ForkPoolWorker-162] child process calling self.run()
+[INFO/ForkPoolWorker-161] child process calling self.run()
+[INFO/ForkPoolWorker-162] process shutting down
+[INFO/ForkPoolWorker-162] process exiting with exitcode 0
+[INFO/ForkPoolWorker-161] process shutting down
+[INFO/ForkPoolWorker-161] process exiting with exitcode 0
+[INFO/ForkPoolWorker-160] process shutting down
+[INFO/ForkPoolWorker-160] process exiting with exitcode 0
+Rate 225.1475376870519
+UpFitness 83
+DownFitness 27
+Generation 21 is end. Gen_End_Time: 123.54017043113708
+Average 149.477092245
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.0463104248046875
+rol is end. rol_End_Time: 0.0037202835083007812
+[INFO/ForkPoolWorker-163] child process calling self.run()
+[INFO/ForkPoolWorker-164] child process calling self.run()
+[INFO/ForkPoolWorker-165] child process calling self.run()
+[INFO/ForkPoolWorker-164] process shutting down
+[INFO/ForkPoolWorker-164] process exiting with exitcode 0
+[INFO/ForkPoolWorker-165] process shutting down
+[INFO/ForkPoolWorker-165] process exiting with exitcode 0
+[INFO/ForkPoolWorker-163] process shutting down
+[INFO/ForkPoolWorker-163] process exiting with exitcode 0
+Rate 224.39097403866742
+UpFitness 111
+DownFitness 64
+Generation 22 is end. Gen_End_Time: 116.26151204109192
+Average 152.053875339
+Degenerated gen kill 1
+RouletteSelection is end. RolInit_End_Time: 0.022505521774291992
+rol is end. rol_End_Time: 0.003621339797973633
+[INFO/ForkPoolWorker-166] child process calling self.run()
+[INFO/ForkPoolWorker-167] child process calling self.run()
+[INFO/ForkPoolWorker-168] child process calling self.run()
+[INFO/ForkPoolWorker-167] process shutting down
+[INFO/ForkPoolWorker-167] process exiting with exitcode 0
+[INFO/ForkPoolWorker-168] process shutting down
+[INFO/ForkPoolWorker-168] process exiting with exitcode 0
+[INFO/ForkPoolWorker-166] process shutting down
+[INFO/ForkPoolWorker-166] process exiting with exitcode 0
+Rate 221.1321842937087
+UpFitness 108
+DownFitness 61
+Generation 23 is end. Gen_End_Time: 109.41724348068237
+Average 151.067037729
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.021210670471191406
+rol is end. rol_End_Time: 0.0034637451171875
+[INFO/ForkPoolWorker-169] child process calling self.run()
+[INFO/ForkPoolWorker-170] child process calling self.run()
+[INFO/ForkPoolWorker-171] child process calling self.run()
+[INFO/ForkPoolWorker-171] process shutting down
+[INFO/ForkPoolWorker-170] process shutting down
+[INFO/ForkPoolWorker-170] process exiting with exitcode 0
+[INFO/ForkPoolWorker-171] process exiting with exitcode 0
+[INFO/ForkPoolWorker-169] process shutting down
+[INFO/ForkPoolWorker-169] process exiting with exitcode 0
+Rate 208.76390549336475
+UpFitness 106
+DownFitness 64
+Generation 24 is end. Gen_End_Time: 107.80019617080688
+Average 152.841611805
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020641803741455078
+rol is end. rol_End_Time: 0.0035371780395507812
+[INFO/ForkPoolWorker-172] child process calling self.run()
+[INFO/ForkPoolWorker-173] child process calling self.run()
+[INFO/ForkPoolWorker-174] child process calling self.run()
+[INFO/ForkPoolWorker-173] process shutting down
+[INFO/ForkPoolWorker-174] process shutting down
+[INFO/ForkPoolWorker-173] process exiting with exitcode 0
+[INFO/ForkPoolWorker-174] process exiting with exitcode 0
+[INFO/ForkPoolWorker-172] process shutting down
+[INFO/ForkPoolWorker-172] process exiting with exitcode 0
+Rate 220.35061157882035
+UpFitness 111
+DownFitness 66
+Generation 25 is end. Gen_End_Time: 109.68304562568665
+Average 159.834683942
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.02057194709777832
+rol is end. rol_End_Time: 0.0038604736328125
+[INFO/ForkPoolWorker-175] child process calling self.run()
+[INFO/ForkPoolWorker-176] child process calling self.run()
+[INFO/ForkPoolWorker-177] child process calling self.run()
+[INFO/ForkPoolWorker-176] process shutting down
+[INFO/ForkPoolWorker-177] process shutting down
+[INFO/ForkPoolWorker-176] process exiting with exitcode 0
+[INFO/ForkPoolWorker-177] process exiting with exitcode 0
+[INFO/ForkPoolWorker-175] process shutting down
+[INFO/ForkPoolWorker-175] process exiting with exitcode 0
+Rate 232.8488632108394
+UpFitness 87
+DownFitness 29
+Generation 26 is end. Gen_End_Time: 106.80386114120483
+Average 163.430354083
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020697593688964844
+rol is end. rol_End_Time: 0.0034885406494140625
+[INFO/ForkPoolWorker-178] child process calling self.run()
+[INFO/ForkPoolWorker-179] child process calling self.run()
+[INFO/ForkPoolWorker-180] child process calling self.run()
+[INFO/ForkPoolWorker-179] process shutting down
+[INFO/ForkPoolWorker-179] process exiting with exitcode 0
+[INFO/ForkPoolWorker-180] process shutting down
+[INFO/ForkPoolWorker-180] process exiting with exitcode 0
+[INFO/ForkPoolWorker-178] process shutting down
+[INFO/ForkPoolWorker-178] process exiting with exitcode 0
+Rate 230.67677038827378
+UpFitness 113
+DownFitness 64
+Generation 27 is end. Gen_End_Time: 105.37401461601257
+Average 165.94739329
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.021057605743408203
+rol is end. rol_End_Time: 0.0036873817443847656
+[INFO/ForkPoolWorker-181] child process calling self.run()
+[INFO/ForkPoolWorker-182] child process calling self.run()
+[INFO/ForkPoolWorker-183] child process calling self.run()
+[INFO/ForkPoolWorker-182] process shutting down
+[INFO/ForkPoolWorker-183] process shutting down
+[INFO/ForkPoolWorker-182] process exiting with exitcode 0
+[INFO/ForkPoolWorker-183] process exiting with exitcode 0
+[INFO/ForkPoolWorker-181] process shutting down
+[INFO/ForkPoolWorker-181] process exiting with exitcode 0
+Rate 224.39097403866742
+UpFitness 111
+DownFitness 64
+Generation 28 is end. Gen_End_Time: 107.00730776786804
+Average 160.266869169
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.021570205688476562
+rol is end. rol_End_Time: 0.0037174224853515625
+[INFO/ForkPoolWorker-184] child process calling self.run()
+[INFO/ForkPoolWorker-185] child process calling self.run()
+[INFO/ForkPoolWorker-186] child process calling self.run()
+[INFO/ForkPoolWorker-185] process shutting down
+[INFO/ForkPoolWorker-186] process shutting down
+[INFO/ForkPoolWorker-186] process exiting with exitcode 0
+[INFO/ForkPoolWorker-185] process exiting with exitcode 0
+[INFO/ForkPoolWorker-184] process shutting down
+[INFO/ForkPoolWorker-184] process exiting with exitcode 0
+Rate 224.39097403866742
+UpFitness 111
+DownFitness 64
+Generation 29 is end. Gen_End_Time: 110.11264109611511
+Average 162.429768113
+[['LN' 'BOP' 'SAR' 'LOG10' 'MA' 'SUB' 'TAN' 'ATAN' 'TRIX' 'EMA']]
+Time 5678.780471563339
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-187] child process calling self.run()
+[INFO/ForkPoolWorker-188] child process calling self.run()
+[INFO/ForkPoolWorker-189] child process calling self.run()
+[INFO/ForkPoolWorker-190] child process calling self.run()
+[INFO/ForkPoolWorker-188] process shutting down
+[INFO/ForkPoolWorker-188] process exiting with exitcode 0
+[INFO/ForkPoolWorker-189] process shutting down
+[INFO/ForkPoolWorker-189] process exiting with exitcode 0
+[INFO/ForkPoolWorker-190] process shutting down
+[INFO/ForkPoolWorker-190] process exiting with exitcode 0
+[INFO/ForkPoolWorker-187] process shutting down
+[INFO/ForkPoolWorker-187] process exiting with exitcode 0
+Rate 105.99186869039559
+UpFitness 73
+DownFitness 66
+Generation -1 is end. Gen_End_Time: 433.40390706062317
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.0224912166595459
+rol is end. rol_End_Time: 0.0035257339477539062
+[INFO/ForkPoolWorker-191] child process calling self.run()
+[INFO/ForkPoolWorker-192] child process calling self.run()
+[INFO/ForkPoolWorker-193] child process calling self.run()
+[INFO/ForkPoolWorker-194] child process calling self.run()
+[INFO/ForkPoolWorker-193] process shutting down
+[INFO/ForkPoolWorker-194] process shutting down
+[INFO/ForkPoolWorker-193] process exiting with exitcode 0
+[INFO/ForkPoolWorker-194] process exiting with exitcode 0
+[INFO/ForkPoolWorker-192] process shutting down
+[INFO/ForkPoolWorker-192] process exiting with exitcode 0
+[INFO/ForkPoolWorker-191] process shutting down
+[INFO/ForkPoolWorker-191] process exiting with exitcode 0
+Rate 164.8562532030313
+UpFitness 33
+DownFitness 3
+Generation 0 is end. Gen_End_Time: 346.15076303482056
+Average 58.9057609084
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.020172119140625
+rol is end. rol_End_Time: 0.003408670425415039
+[INFO/ForkPoolWorker-195] child process calling self.run()
+[INFO/ForkPoolWorker-196] child process calling self.run()
+[INFO/ForkPoolWorker-197] child process calling self.run()
+[INFO/ForkPoolWorker-198] child process calling self.run()
+[INFO/ForkPoolWorker-196] process shutting down
+[INFO/ForkPoolWorker-197] process shutting down
+[INFO/ForkPoolWorker-196] process exiting with exitcode 0
+[INFO/ForkPoolWorker-197] process exiting with exitcode 0
+[INFO/ForkPoolWorker-198] process shutting down
+[INFO/ForkPoolWorker-198] process exiting with exitcode 0
+[INFO/ForkPoolWorker-195] process shutting down
+[INFO/ForkPoolWorker-195] process exiting with exitcode 0
+Rate 177.81194637615897
+UpFitness 35
+DownFitness 3
+Generation 1 is end. Gen_End_Time: 330.4565997123718
+Average 64.5315255205
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.0207366943359375
+rol is end. rol_End_Time: 0.0038979053497314453
+[INFO/ForkPoolWorker-199] child process calling self.run()
+[INFO/ForkPoolWorker-200] child process calling self.run()
+[INFO/ForkPoolWorker-201] child process calling self.run()
+[INFO/ForkPoolWorker-202] child process calling self.run()
+[INFO/ForkPoolWorker-200] process shutting down
+[INFO/ForkPoolWorker-200] process exiting with exitcode 0
+[INFO/ForkPoolWorker-201] process shutting down
+[INFO/ForkPoolWorker-202] process shutting down
+[INFO/ForkPoolWorker-202] process exiting with exitcode 0
+[INFO/ForkPoolWorker-201] process exiting with exitcode 0
+[INFO/ForkPoolWorker-199] process shutting down
+[INFO/ForkPoolWorker-199] process exiting with exitcode 0
+Rate 158.4426028122795
+UpFitness 32
+DownFitness 3
+Generation 2 is end. Gen_End_Time: 290.8909683227539
+Average 63.8140406721
+Degenerated gen kill 20
+RouletteSelection is end. RolInit_End_Time: 0.01856064796447754
+rol is end. rol_End_Time: 0.0034945011138916016
+[INFO/ForkPoolWorker-203] child process calling self.run()
+[INFO/ForkPoolWorker-204] child process calling self.run()
+[INFO/ForkPoolWorker-205] child process calling self.run()
+[INFO/ForkPoolWorker-206] child process calling self.run()
+[INFO/ForkPoolWorker-204] process shutting down
+[INFO/ForkPoolWorker-204] process exiting with exitcode 0
+[INFO/ForkPoolWorker-205] process shutting down
+[INFO/ForkPoolWorker-205] process exiting with exitcode 0
+[INFO/ForkPoolWorker-206] process shutting down
+[INFO/ForkPoolWorker-206] process exiting with exitcode 0
+[INFO/ForkPoolWorker-203] process shutting down
+[INFO/ForkPoolWorker-203] process exiting with exitcode 0
+Rate 186.86956710234693
+UpFitness 105
+DownFitness 74
+Generation 3 is end. Gen_End_Time: 289.11264634132385
+Average 67.3986079872
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.03637361526489258
+rol is end. rol_End_Time: 0.005696296691894531
+[INFO/ForkPoolWorker-207] child process calling self.run()
+[INFO/ForkPoolWorker-208] child process calling self.run()
+[INFO/ForkPoolWorker-209] child process calling self.run()
+[INFO/ForkPoolWorker-210] child process calling self.run()
+[INFO/ForkPoolWorker-208] process shutting down
+[INFO/ForkPoolWorker-208] process exiting with exitcode 0
+[INFO/ForkPoolWorker-209] process shutting down
+[INFO/ForkPoolWorker-209] process exiting with exitcode 0
+[INFO/ForkPoolWorker-210] process shutting down
+[INFO/ForkPoolWorker-210] process exiting with exitcode 0
+[INFO/ForkPoolWorker-207] process shutting down
+[INFO/ForkPoolWorker-207] process exiting with exitcode 0
+Rate 177.21102731414385
+UpFitness 100
+DownFitness 71
+Generation 4 is end. Gen_End_Time: 246.8563838005066
+Average 76.7029880611
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.020592689514160156
+rol is end. rol_End_Time: 0.003664255142211914
+[INFO/ForkPoolWorker-211] child process calling self.run()
+[INFO/ForkPoolWorker-212] child process calling self.run()
+[INFO/ForkPoolWorker-213] child process calling self.run()
+[INFO/ForkPoolWorker-214] child process calling self.run()
+[INFO/ForkPoolWorker-212] process shutting down
+[INFO/ForkPoolWorker-212] process exiting with exitcode 0
+[INFO/ForkPoolWorker-213] process shutting down
+[INFO/ForkPoolWorker-213] process exiting with exitcode 0
+[INFO/ForkPoolWorker-214] process shutting down
+[INFO/ForkPoolWorker-214] process exiting with exitcode 0
+[INFO/ForkPoolWorker-211] process shutting down
+[INFO/ForkPoolWorker-211] process exiting with exitcode 0
+Rate 198.9451873988811
+UpFitness 112
+DownFitness 79
+Generation 5 is end. Gen_End_Time: 199.62990522384644
+Average 82.7468903238
+Degenerated gen kill 17
+RouletteSelection is end. RolInit_End_Time: 0.01898646354675293
+rol is end. rol_End_Time: 0.0033469200134277344
+[INFO/ForkPoolWorker-215] child process calling self.run()
+[INFO/ForkPoolWorker-216] child process calling self.run()
+[INFO/ForkPoolWorker-217] child process calling self.run()
+[INFO/ForkPoolWorker-218] child process calling self.run()
+[INFO/ForkPoolWorker-216] process shutting down
+[INFO/ForkPoolWorker-217] process shutting down
+[INFO/ForkPoolWorker-216] process exiting with exitcode 0
+[INFO/ForkPoolWorker-217] process exiting with exitcode 0
+[INFO/ForkPoolWorker-218] process shutting down
+[INFO/ForkPoolWorker-218] process exiting with exitcode 0
+[INFO/ForkPoolWorker-215] process shutting down
+[INFO/ForkPoolWorker-215] process exiting with exitcode 0
+Rate 185.08451622450474
+UpFitness 105
+DownFitness 75
+Generation 6 is end. Gen_End_Time: 210.90128374099731
+Average 91.5981552659
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.0220792293548584
+rol is end. rol_End_Time: 0.003869771957397461
+[INFO/ForkPoolWorker-219] child process calling self.run()
+[INFO/ForkPoolWorker-220] child process calling self.run()
+[INFO/ForkPoolWorker-221] child process calling self.run()
+[INFO/ForkPoolWorker-222] child process calling self.run()
+[INFO/ForkPoolWorker-220] process shutting down
+[INFO/ForkPoolWorker-221] process shutting down
+[INFO/ForkPoolWorker-220] process exiting with exitcode 0
+[INFO/ForkPoolWorker-221] process exiting with exitcode 0
+[INFO/ForkPoolWorker-222] process shutting down
+[INFO/ForkPoolWorker-222] process exiting with exitcode 0
+[INFO/ForkPoolWorker-219] process shutting down
+[INFO/ForkPoolWorker-219] process exiting with exitcode 0
+Rate 184.76937992385388
+UpFitness 109
+DownFitness 82
+Generation 7 is end. Gen_End_Time: 186.45346474647522
+Average 89.6889171702
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.02082037925720215
+rol is end. rol_End_Time: 0.003330707550048828
+[INFO/ForkPoolWorker-223] child process calling self.run()
+[INFO/ForkPoolWorker-224] child process calling self.run()
+[INFO/ForkPoolWorker-225] child process calling self.run()
+[INFO/ForkPoolWorker-226] child process calling self.run()
+[INFO/ForkPoolWorker-224] process shutting down
+[INFO/ForkPoolWorker-224] process exiting with exitcode 0
+[INFO/ForkPoolWorker-225] process shutting down
+[INFO/ForkPoolWorker-226] process shutting down
+[INFO/ForkPoolWorker-225] process exiting with exitcode 0
+[INFO/ForkPoolWorker-226] process exiting with exitcode 0
+[INFO/ForkPoolWorker-223] process shutting down
+[INFO/ForkPoolWorker-223] process exiting with exitcode 0
+Rate 185.40295315108278
+UpFitness 120
+DownFitness 101
+Generation 8 is end. Gen_End_Time: 163.66415643692017
+Average 99.877482526
+Degenerated gen kill 18
+RouletteSelection is end. RolInit_End_Time: 0.020079374313354492
+rol is end. rol_End_Time: 0.003273487091064453
+[INFO/ForkPoolWorker-227] child process calling self.run()
+[INFO/ForkPoolWorker-228] child process calling self.run()
+[INFO/ForkPoolWorker-229] child process calling self.run()
+[INFO/ForkPoolWorker-230] child process calling self.run()
+[INFO/ForkPoolWorker-228] process shutting down
+[INFO/ForkPoolWorker-229] process shutting down
+[INFO/ForkPoolWorker-228] process exiting with exitcode 0
+[INFO/ForkPoolWorker-229] process exiting with exitcode 0
+[INFO/ForkPoolWorker-230] process shutting down
+[INFO/ForkPoolWorker-230] process exiting with exitcode 0
+[INFO/ForkPoolWorker-227] process shutting down
+[INFO/ForkPoolWorker-227] process exiting with exitcode 0
+Rate 200.1668377020162
+UpFitness 120
+DownFitness 92
+Generation 9 is end. Gen_End_Time: 162.46888065338135
+Average 97.8311813373
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.021029949188232422
+rol is end. rol_End_Time: 0.0034608840942382812
+[INFO/ForkPoolWorker-231] child process calling self.run()
+[INFO/ForkPoolWorker-232] child process calling self.run()
+[INFO/ForkPoolWorker-233] child process calling self.run()
+[INFO/ForkPoolWorker-234] child process calling self.run()
+[INFO/ForkPoolWorker-232] process shutting down
+[INFO/ForkPoolWorker-232] process exiting with exitcode 0
+[INFO/ForkPoolWorker-233] process shutting down
+[INFO/ForkPoolWorker-234] process shutting down
+[INFO/ForkPoolWorker-233] process exiting with exitcode 0
+[INFO/ForkPoolWorker-234] process exiting with exitcode 0
+[INFO/ForkPoolWorker-231] process shutting down
+[INFO/ForkPoolWorker-231] process exiting with exitcode 0
+Rate 199.7592559278367
+UpFitness 130
+DownFitness 110
+Generation 10 is end. Gen_End_Time: 139.5157904624939
+Average 105.240823916
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.020723342895507812
+rol is end. rol_End_Time: 0.0033791065216064453
+[INFO/ForkPoolWorker-235] child process calling self.run()
+[INFO/ForkPoolWorker-236] child process calling self.run()
+[INFO/ForkPoolWorker-237] child process calling self.run()
+[INFO/ForkPoolWorker-238] child process calling self.run()
+[INFO/ForkPoolWorker-236] process shutting down
+[INFO/ForkPoolWorker-236] process exiting with exitcode 0
+[INFO/ForkPoolWorker-237] process shutting down
+[INFO/ForkPoolWorker-237] process exiting with exitcode 0
+[INFO/ForkPoolWorker-238] process shutting down
+[INFO/ForkPoolWorker-238] process exiting with exitcode 0
+[INFO/ForkPoolWorker-235] process shutting down
+[INFO/ForkPoolWorker-235] process exiting with exitcode 0
+Rate 210.96791222556874
+UpFitness 116
+DownFitness 79
+Generation 11 is end. Gen_End_Time: 124.54455924034119
+Average 111.52053161
+Degenerated gen kill 14
+RouletteSelection is end. RolInit_End_Time: 0.020237207412719727
+rol is end. rol_End_Time: 0.0031876564025878906
+[INFO/ForkPoolWorker-239] child process calling self.run()
+[INFO/ForkPoolWorker-240] child process calling self.run()
+[INFO/ForkPoolWorker-241] child process calling self.run()
+[INFO/ForkPoolWorker-242] child process calling self.run()
+[INFO/ForkPoolWorker-240] process shutting down
+[INFO/ForkPoolWorker-241] process shutting down
+[INFO/ForkPoolWorker-240] process exiting with exitcode 0
+[INFO/ForkPoolWorker-241] process exiting with exitcode 0
+[INFO/ForkPoolWorker-242] process shutting down
+[INFO/ForkPoolWorker-242] process exiting with exitcode 0
+[INFO/ForkPoolWorker-239] process shutting down
+[INFO/ForkPoolWorker-239] process exiting with exitcode 0
+Rate 202.36287503498
+UpFitness 127
+DownFitness 103
+Generation 12 is end. Gen_End_Time: 115.34111189842224
+Average 125.251824348
+Degenerated gen kill 22
+RouletteSelection is end. RolInit_End_Time: 0.018664121627807617
+rol is end. rol_End_Time: 0.0028922557830810547
+[INFO/ForkPoolWorker-243] child process calling self.run()
+[INFO/ForkPoolWorker-244] child process calling self.run()
+[INFO/ForkPoolWorker-245] child process calling self.run()
+[INFO/ForkPoolWorker-246] child process calling self.run()
+[INFO/ForkPoolWorker-244] process shutting down
+[INFO/ForkPoolWorker-244] process exiting with exitcode 0
+[INFO/ForkPoolWorker-245] process shutting down
+[INFO/ForkPoolWorker-245] process exiting with exitcode 0
+[INFO/ForkPoolWorker-246] process shutting down
+[INFO/ForkPoolWorker-246] process exiting with exitcode 0
+[INFO/ForkPoolWorker-243] process shutting down
+[INFO/ForkPoolWorker-243] process exiting with exitcode 0
+Rate 204.87098605244284
+UpFitness 134
+DownFitness 114
+Generation 13 is end. Gen_End_Time: 92.2613537311554
+Average 133.405863001
+Degenerated gen kill 19
+RouletteSelection is end. RolInit_End_Time: 0.019475221633911133
+rol is end. rol_End_Time: 0.0034453868865966797
+[INFO/ForkPoolWorker-247] child process calling self.run()
+[INFO/ForkPoolWorker-248] child process calling self.run()
+[INFO/ForkPoolWorker-249] child process calling self.run()
+[INFO/ForkPoolWorker-250] child process calling self.run()
+[INFO/ForkPoolWorker-248] process shutting down
+[INFO/ForkPoolWorker-248] process exiting with exitcode 0
+[INFO/ForkPoolWorker-249] process shutting down
+[INFO/ForkPoolWorker-249] process exiting with exitcode 0
+[INFO/ForkPoolWorker-250] process shutting down
+[INFO/ForkPoolWorker-250] process exiting with exitcode 0
+[INFO/ForkPoolWorker-247] process shutting down
+[INFO/ForkPoolWorker-247] process exiting with exitcode 0
+Rate 202.53554660703082
+UpFitness 112
+DownFitness 77
+Generation 14 is end. Gen_End_Time: 83.3298830986023
+Average 137.410742601
+Degenerated gen kill 19
+RouletteSelection is end. RolInit_End_Time: 0.026178359985351562
+rol is end. rol_End_Time: 0.004931211471557617
+[INFO/ForkPoolWorker-251] child process calling self.run()
+[INFO/ForkPoolWorker-252] child process calling self.run()
+[INFO/ForkPoolWorker-253] child process calling self.run()
+[INFO/ForkPoolWorker-254] child process calling self.run()
+[INFO/ForkPoolWorker-252] process shutting down
+[INFO/ForkPoolWorker-253] process shutting down
+[INFO/ForkPoolWorker-252] process exiting with exitcode 0
+[INFO/ForkPoolWorker-253] process exiting with exitcode 0
+[INFO/ForkPoolWorker-254] process shutting down
+[INFO/ForkPoolWorker-254] process exiting with exitcode 0
+[INFO/ForkPoolWorker-251] process shutting down
+[INFO/ForkPoolWorker-251] process exiting with exitcode 0
+Rate 204.79850179947266
+UpFitness 121
+DownFitness 91
+Generation 15 is end. Gen_End_Time: 76.66856718063354
+Average 147.7978038
+Degenerated gen kill 14
+RouletteSelection is end. RolInit_End_Time: 0.019634008407592773
+rol is end. rol_End_Time: 0.004202842712402344
+[INFO/ForkPoolWorker-255] child process calling self.run()
+[INFO/ForkPoolWorker-256] child process calling self.run()
+[INFO/ForkPoolWorker-257] child process calling self.run()
+[INFO/ForkPoolWorker-258] child process calling self.run()
+[INFO/ForkPoolWorker-256] process shutting down
+[INFO/ForkPoolWorker-257] process shutting down
+[INFO/ForkPoolWorker-256] process exiting with exitcode 0
+[INFO/ForkPoolWorker-257] process exiting with exitcode 0
+[INFO/ForkPoolWorker-258] process shutting down
+[INFO/ForkPoolWorker-258] process exiting with exitcode 0
+[INFO/ForkPoolWorker-255] process shutting down
+[INFO/ForkPoolWorker-255] process exiting with exitcode 0
+Rate 212.78993648257784
+UpFitness 116
+DownFitness 78
+Generation 16 is end. Gen_End_Time: 77.5649847984314
+Average 146.421281123
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.019459009170532227
+rol is end. rol_End_Time: 0.0032308101654052734
+[INFO/ForkPoolWorker-259] child process calling self.run()
+[INFO/ForkPoolWorker-260] child process calling self.run()
+[INFO/ForkPoolWorker-261] child process calling self.run()
+[INFO/ForkPoolWorker-262] child process calling self.run()
+[INFO/ForkPoolWorker-260] process shutting down
+[INFO/ForkPoolWorker-261] process shutting down
+[INFO/ForkPoolWorker-260] process exiting with exitcode 0
+[INFO/ForkPoolWorker-261] process exiting with exitcode 0
+[INFO/ForkPoolWorker-262] process shutting down
+[INFO/ForkPoolWorker-262] process exiting with exitcode 0
+[INFO/ForkPoolWorker-259] process shutting down
+[INFO/ForkPoolWorker-259] process exiting with exitcode 0
+Rate 207.36732524669435
+UpFitness 116
+DownFitness 81
+Generation 17 is end. Gen_End_Time: 73.49888253211975
+Average 153.17233932
+Degenerated gen kill 19
+RouletteSelection is end. RolInit_End_Time: 0.031035661697387695
+rol is end. rol_End_Time: 0.0056531429290771484
+[INFO/ForkPoolWorker-263] child process calling self.run()
+[INFO/ForkPoolWorker-264] child process calling self.run()
+[INFO/ForkPoolWorker-265] child process calling self.run()
+[INFO/ForkPoolWorker-266] child process calling self.run()
+[INFO/ForkPoolWorker-264] process shutting down
+[INFO/ForkPoolWorker-264] process exiting with exitcode 0
+[INFO/ForkPoolWorker-266] process shutting down
+[INFO/ForkPoolWorker-266] process exiting with exitcode 0
+[INFO/ForkPoolWorker-265] process shutting down
+[INFO/ForkPoolWorker-265] process exiting with exitcode 0
+[INFO/ForkPoolWorker-263] process shutting down
+[INFO/ForkPoolWorker-263] process exiting with exitcode 0
+Rate 209.05274494230292
+UpFitness 131
+DownFitness 106
+Generation 18 is end. Gen_End_Time: 68.31489682197571
+Average 158.259173422
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.03392529487609863
+rol is end. rol_End_Time: 0.0034987926483154297
+[INFO/ForkPoolWorker-267] child process calling self.run()
+[INFO/ForkPoolWorker-268] child process calling self.run()
+[INFO/ForkPoolWorker-269] child process calling self.run()
+[INFO/ForkPoolWorker-270] child process calling self.run()
+[INFO/ForkPoolWorker-268] process shutting down
+[INFO/ForkPoolWorker-268] process exiting with exitcode 0
+[INFO/ForkPoolWorker-269] process shutting down
+[INFO/ForkPoolWorker-270] process shutting down
+[INFO/ForkPoolWorker-269] process exiting with exitcode 0
+[INFO/ForkPoolWorker-270] process exiting with exitcode 0
+[INFO/ForkPoolWorker-267] process shutting down
+[INFO/ForkPoolWorker-267] process exiting with exitcode 0
+Rate 205.26765949287477
+UpFitness 120
+DownFitness 89
+Generation 19 is end. Gen_End_Time: 65.47604250907898
+Average 156.089473983
+Degenerated gen kill 16
+RouletteSelection is end. RolInit_End_Time: 0.019219636917114258
+rol is end. rol_End_Time: 0.003328561782836914
+[INFO/ForkPoolWorker-271] child process calling self.run()
+[INFO/ForkPoolWorker-272] child process calling self.run()
+[INFO/ForkPoolWorker-273] child process calling self.run()
+[INFO/ForkPoolWorker-274] child process calling self.run()
+[INFO/ForkPoolWorker-272] process shutting down
+[INFO/ForkPoolWorker-273] process shutting down
+[INFO/ForkPoolWorker-273] process exiting with exitcode 0
+[INFO/ForkPoolWorker-272] process exiting with exitcode 0
+[INFO/ForkPoolWorker-274] process shutting down
+[INFO/ForkPoolWorker-274] process exiting with exitcode 0
+[INFO/ForkPoolWorker-271] process shutting down
+[INFO/ForkPoolWorker-271] process exiting with exitcode 0
+Rate 212.78993648257784
+UpFitness 116
+DownFitness 78
+Generation 20 is end. Gen_End_Time: 61.98449683189392
+Average 159.32191644
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.022362709045410156
+rol is end. rol_End_Time: 0.003406047821044922
+[INFO/ForkPoolWorker-275] child process calling self.run()
+[INFO/ForkPoolWorker-276] child process calling self.run()
+[INFO/ForkPoolWorker-277] child process calling self.run()
+[INFO/ForkPoolWorker-278] child process calling self.run()
+[INFO/ForkPoolWorker-276] process shutting down
+[INFO/ForkPoolWorker-276] process exiting with exitcode 0
+[INFO/ForkPoolWorker-277] process shutting down
+[INFO/ForkPoolWorker-278] process shutting down
+[INFO/ForkPoolWorker-277] process exiting with exitcode 0
+[INFO/ForkPoolWorker-278] process exiting with exitcode 0
+[INFO/ForkPoolWorker-275] process shutting down
+[INFO/ForkPoolWorker-275] process exiting with exitcode 0
+Rate 208.65657331334364
+UpFitness 143
+DownFitness 128
+Generation 21 is end. Gen_End_Time: 64.66731667518616
+Average 161.48097442
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.022139549255371094
+rol is end. rol_End_Time: 0.003718852996826172
+[INFO/ForkPoolWorker-279] child process calling self.run()
+[INFO/ForkPoolWorker-280] child process calling self.run()
+[INFO/ForkPoolWorker-281] child process calling self.run()
+[INFO/ForkPoolWorker-282] child process calling self.run()
+[INFO/ForkPoolWorker-280] process shutting down
+[INFO/ForkPoolWorker-280] process exiting with exitcode 0
+[INFO/ForkPoolWorker-281] process shutting down
+[INFO/ForkPoolWorker-281] process exiting with exitcode 0
+[INFO/ForkPoolWorker-282] process shutting down
+[INFO/ForkPoolWorker-282] process exiting with exitcode 0
+[INFO/ForkPoolWorker-279] process shutting down
+[INFO/ForkPoolWorker-279] process exiting with exitcode 0
+Rate 198.1010603506041
+UpFitness 136
+DownFitness 122
+Generation 22 is end. Gen_End_Time: 62.974555253982544
+Average 161.140541794
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.03725147247314453
+rol is end. rol_End_Time: 0.00648045539855957
+[INFO/ForkPoolWorker-283] child process calling self.run()
+[INFO/ForkPoolWorker-284] child process calling self.run()
+[INFO/ForkPoolWorker-285] child process calling self.run()
+[INFO/ForkPoolWorker-286] child process calling self.run()
+[INFO/ForkPoolWorker-284] process shutting down
+[INFO/ForkPoolWorker-285] process shutting down
+[INFO/ForkPoolWorker-284] process exiting with exitcode 0
+[INFO/ForkPoolWorker-285] process exiting with exitcode 0
+[INFO/ForkPoolWorker-286] process shutting down
+[INFO/ForkPoolWorker-286] process exiting with exitcode 0
+[INFO/ForkPoolWorker-283] process shutting down
+[INFO/ForkPoolWorker-283] process exiting with exitcode 0
+Rate 201.04641010167416
+UpFitness 95
+DownFitness 51
+Generation 23 is end. Gen_End_Time: 62.97303557395935
+Average 161.365710791
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.021514177322387695
+rol is end. rol_End_Time: 0.0037450790405273438
+[INFO/ForkPoolWorker-287] child process calling self.run()
+[INFO/ForkPoolWorker-288] child process calling self.run()
+[INFO/ForkPoolWorker-289] child process calling self.run()
+[INFO/ForkPoolWorker-290] child process calling self.run()
+[INFO/ForkPoolWorker-288] process shutting down
+[INFO/ForkPoolWorker-288] process exiting with exitcode 0
+[INFO/ForkPoolWorker-289] process shutting down
+[INFO/ForkPoolWorker-289] process exiting with exitcode 0
+[INFO/ForkPoolWorker-290] process shutting down
+[INFO/ForkPoolWorker-290] process exiting with exitcode 0
+[INFO/ForkPoolWorker-287] process shutting down
+[INFO/ForkPoolWorker-287] process exiting with exitcode 0
+Rate 198.1010603506041
+UpFitness 136
+DownFitness 122
+Generation 24 is end. Gen_End_Time: 61.42563056945801
+Average 164.61757462
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.022689342498779297
+rol is end. rol_End_Time: 0.0037178993225097656
+[INFO/ForkPoolWorker-291] child process calling self.run()
+[INFO/ForkPoolWorker-292] child process calling self.run()
+[INFO/ForkPoolWorker-293] child process calling self.run()
+[INFO/ForkPoolWorker-294] child process calling self.run()
+[INFO/ForkPoolWorker-293] process shutting down
+[INFO/ForkPoolWorker-294] process shutting down
+[INFO/ForkPoolWorker-293] process exiting with exitcode 0
+[INFO/ForkPoolWorker-294] process exiting with exitcode 0
+[INFO/ForkPoolWorker-292] process shutting down
+[INFO/ForkPoolWorker-292] process exiting with exitcode 0
+[INFO/ForkPoolWorker-291] process shutting down
+[INFO/ForkPoolWorker-291] process exiting with exitcode 0
+Rate 207.09426007478328
+UpFitness 132
+DownFitness 109
+Generation 25 is end. Gen_End_Time: 61.877065896987915
+Average 169.107180448
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.023833036422729492
+rol is end. rol_End_Time: 0.003608226776123047
+[INFO/ForkPoolWorker-295] child process calling self.run()
+[INFO/ForkPoolWorker-296] child process calling self.run()
+[INFO/ForkPoolWorker-297] child process calling self.run()
+[INFO/ForkPoolWorker-298] child process calling self.run()
+[INFO/ForkPoolWorker-296] process shutting down
+[INFO/ForkPoolWorker-297] process shutting down
+[INFO/ForkPoolWorker-296] process exiting with exitcode 0
+[INFO/ForkPoolWorker-297] process exiting with exitcode 0
+[INFO/ForkPoolWorker-298] process shutting down
+[INFO/ForkPoolWorker-298] process exiting with exitcode 0
+[INFO/ForkPoolWorker-295] process shutting down
+[INFO/ForkPoolWorker-295] process exiting with exitcode 0
+Rate 207.09426007478328
+UpFitness 132
+DownFitness 109
+Generation 26 is end. Gen_End_Time: 60.16918230056763
+Average 167.109132215
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.034653663635253906
+rol is end. rol_End_Time: 0.00407099723815918
+[INFO/ForkPoolWorker-299] child process calling self.run()
+[INFO/ForkPoolWorker-300] child process calling self.run()
+[INFO/ForkPoolWorker-301] child process calling self.run()
+[INFO/ForkPoolWorker-302] child process calling self.run()
+[INFO/ForkPoolWorker-300] process shutting down
+[INFO/ForkPoolWorker-300] process exiting with exitcode 0
+[INFO/ForkPoolWorker-301] process shutting down
+[INFO/ForkPoolWorker-302] process shutting down
+[INFO/ForkPoolWorker-301] process exiting with exitcode 0
+[INFO/ForkPoolWorker-302] process exiting with exitcode 0
+[INFO/ForkPoolWorker-299] process shutting down
+[INFO/ForkPoolWorker-299] process exiting with exitcode 0
+Rate 203.2614779393534
+UpFitness 95
+DownFitness 50
+Generation 27 is end. Gen_End_Time: 61.99359965324402
+Average 166.749695818
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.02724289894104004
+rol is end. rol_End_Time: 0.0038232803344726562
+[INFO/ForkPoolWorker-303] child process calling self.run()
+[INFO/ForkPoolWorker-304] child process calling self.run()
+[INFO/ForkPoolWorker-305] child process calling self.run()
+[INFO/ForkPoolWorker-306] child process calling self.run()
+[INFO/ForkPoolWorker-304] process shutting down
+[INFO/ForkPoolWorker-305] process shutting down
+[INFO/ForkPoolWorker-304] process exiting with exitcode 0
+[INFO/ForkPoolWorker-305] process exiting with exitcode 0
+[INFO/ForkPoolWorker-306] process shutting down
+[INFO/ForkPoolWorker-306] process exiting with exitcode 0
+[INFO/ForkPoolWorker-303] process shutting down
+[INFO/ForkPoolWorker-303] process exiting with exitcode 0
+Rate 206.59009230586838
+UpFitness 139
+DownFitness 122
+Generation 28 is end. Gen_End_Time: 61.68741798400879
+Average 171.970135965
+Degenerated gen kill 2
+RouletteSelection is end. RolInit_End_Time: 0.024384737014770508
+rol is end. rol_End_Time: 0.0036649703979492188
+[INFO/ForkPoolWorker-307] child process calling self.run()
+[INFO/ForkPoolWorker-308] child process calling self.run()
+[INFO/ForkPoolWorker-309] child process calling self.run()
+[INFO/ForkPoolWorker-310] child process calling self.run()
+[INFO/ForkPoolWorker-308] process shutting down
+[INFO/ForkPoolWorker-308] process exiting with exitcode 0
+[INFO/ForkPoolWorker-309] process shutting down
+[INFO/ForkPoolWorker-310] process shutting down
+[INFO/ForkPoolWorker-309] process exiting with exitcode 0
+[INFO/ForkPoolWorker-310] process exiting with exitcode 0
+[INFO/ForkPoolWorker-307] process shutting down
+[INFO/ForkPoolWorker-307] process exiting with exitcode 0
+Rate 201.84947823099162
+UpFitness 124
+DownFitness 98
+Generation 29 is end. Gen_End_Time: 62.66410207748413
+Average 171.779091031
+[['MIN' 'TYPPRICE' 'LN' 'ATAN' 'ATAN' 'SQRT' 'TEMA' 'DIV' 'HT_TRENDLINE'
+  'PLUS_DM']]
+Time 4403.2194855213165
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-311] child process calling self.run()
+[INFO/ForkPoolWorker-312] child process calling self.run()
+[INFO/ForkPoolWorker-313] child process calling self.run()
+[INFO/ForkPoolWorker-314] child process calling self.run()
+[INFO/ForkPoolWorker-315] child process calling self.run()
+[INFO/ForkPoolWorker-312] process shutting down
+[INFO/ForkPoolWorker-312] process exiting with exitcode 0
+[INFO/ForkPoolWorker-313] process shutting down
+[INFO/ForkPoolWorker-313] process exiting with exitcode 0
+[INFO/ForkPoolWorker-314] process shutting down
+[INFO/ForkPoolWorker-315] process shutting down
+[INFO/ForkPoolWorker-314] process exiting with exitcode 0
+[INFO/ForkPoolWorker-315] process exiting with exitcode 0
+[INFO/ForkPoolWorker-311] process shutting down
+[INFO/ForkPoolWorker-311] process exiting with exitcode 0
+Rate 137.92070422145403
+UpFitness 81
+DownFitness 61
+Generation -1 is end. Gen_End_Time: 407.05828619003296
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.01806473731994629
+rol is end. rol_End_Time: 0.003834247589111328
+[INFO/ForkPoolWorker-316] child process calling self.run()
+[INFO/ForkPoolWorker-317] child process calling self.run()
+[INFO/ForkPoolWorker-318] child process calling self.run()
+[INFO/ForkPoolWorker-319] child process calling self.run()
+[INFO/ForkPoolWorker-320] child process calling self.run()
+[INFO/ForkPoolWorker-317] process shutting down
+[INFO/ForkPoolWorker-317] process exiting with exitcode 0
+[INFO/ForkPoolWorker-318] process shutting down
+[INFO/ForkPoolWorker-318] process exiting with exitcode 0
+[INFO/ForkPoolWorker-319] process shutting down
+[INFO/ForkPoolWorker-319] process exiting with exitcode 0
+[INFO/ForkPoolWorker-320] process shutting down
+[INFO/ForkPoolWorker-320] process exiting with exitcode 0
+[INFO/ForkPoolWorker-316] process shutting down
+[INFO/ForkPoolWorker-316] process exiting with exitcode 0
+Rate 131.07925768575805
+UpFitness 85
+DownFitness 72
+Generation 0 is end. Gen_End_Time: 368.22086906433105
+Average 60.9404450212
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.01842021942138672
+rol is end. rol_End_Time: 0.0034515857696533203
+[INFO/ForkPoolWorker-321] child process calling self.run()
+[INFO/ForkPoolWorker-322] child process calling self.run()
+[INFO/ForkPoolWorker-323] child process calling self.run()
+[INFO/ForkPoolWorker-324] child process calling self.run()
+[INFO/ForkPoolWorker-325] child process calling self.run()
+[INFO/ForkPoolWorker-322] process shutting down
+[INFO/ForkPoolWorker-323] process shutting down
+[INFO/ForkPoolWorker-322] process exiting with exitcode 0
+[INFO/ForkPoolWorker-323] process exiting with exitcode 0
+[INFO/ForkPoolWorker-324] process shutting down
+[INFO/ForkPoolWorker-324] process exiting with exitcode 0
+[INFO/ForkPoolWorker-325] process shutting down
+[INFO/ForkPoolWorker-325] process exiting with exitcode 0
+[INFO/ForkPoolWorker-321] process shutting down
+[INFO/ForkPoolWorker-321] process exiting with exitcode 0
+Rate 141.17596509645176
+UpFitness 15
+DownFitness 0
+Generation 1 is end. Gen_End_Time: 365.9492645263672
+Average 59.7640332926
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.0191347599029541
+rol is end. rol_End_Time: 0.003696918487548828
+[INFO/ForkPoolWorker-326] child process calling self.run()
+[INFO/ForkPoolWorker-327] child process calling self.run()
+[INFO/ForkPoolWorker-328] child process calling self.run()
+[INFO/ForkPoolWorker-329] child process calling self.run()
+[INFO/ForkPoolWorker-330] child process calling self.run()
+[INFO/ForkPoolWorker-327] process shutting down
+[INFO/ForkPoolWorker-328] process shutting down
+[INFO/ForkPoolWorker-327] process exiting with exitcode 0
+[INFO/ForkPoolWorker-328] process exiting with exitcode 0
+[INFO/ForkPoolWorker-329] process shutting down
+[INFO/ForkPoolWorker-329] process exiting with exitcode 0
+[INFO/ForkPoolWorker-330] process shutting down
+[INFO/ForkPoolWorker-330] process exiting with exitcode 0
+[INFO/ForkPoolWorker-326] process shutting down
+[INFO/ForkPoolWorker-326] process exiting with exitcode 0
+Rate 124.20295351859423
+UpFitness 39
+DownFitness 10
+Generation 2 is end. Gen_End_Time: 342.8367757797241
+Average 62.7729959099
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.01948714256286621
+rol is end. rol_End_Time: 0.003527402877807617
+[INFO/ForkPoolWorker-331] child process calling self.run()
+[INFO/ForkPoolWorker-332] child process calling self.run()
+[INFO/ForkPoolWorker-333] child process calling self.run()
+[INFO/ForkPoolWorker-334] child process calling self.run()
+[INFO/ForkPoolWorker-335] child process calling self.run()
+[INFO/ForkPoolWorker-332] process shutting down
+[INFO/ForkPoolWorker-332] process exiting with exitcode 0
+[INFO/ForkPoolWorker-334] process shutting down
+[INFO/ForkPoolWorker-334] process exiting with exitcode 0
+[INFO/ForkPoolWorker-335] process shutting down
+[INFO/ForkPoolWorker-335] process exiting with exitcode 0
+[INFO/ForkPoolWorker-333] process shutting down
+[INFO/ForkPoolWorker-333] process exiting with exitcode 0
+[INFO/ForkPoolWorker-331] process shutting down
+[INFO/ForkPoolWorker-331] process exiting with exitcode 0
+Rate 171.90277485584
+UpFitness 100
+DownFitness 74
+Generation 3 is end. Gen_End_Time: 325.8718259334564
+Average 66.1734073453
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.01976609230041504
+rol is end. rol_End_Time: 0.003651142120361328
+[INFO/ForkPoolWorker-336] child process calling self.run()
+[INFO/ForkPoolWorker-337] child process calling self.run()
+[INFO/ForkPoolWorker-338] child process calling self.run()
+[INFO/ForkPoolWorker-339] child process calling self.run()
+[INFO/ForkPoolWorker-340] child process calling self.run()
+[INFO/ForkPoolWorker-337] process shutting down
+[INFO/ForkPoolWorker-337] process exiting with exitcode 0
+[INFO/ForkPoolWorker-338] process shutting down
+[INFO/ForkPoolWorker-338] process exiting with exitcode 0
+[INFO/ForkPoolWorker-339] process shutting down
+[INFO/ForkPoolWorker-340] process shutting down
+[INFO/ForkPoolWorker-339] process exiting with exitcode 0
+[INFO/ForkPoolWorker-340] process exiting with exitcode 0
+[INFO/ForkPoolWorker-336] process shutting down
+[INFO/ForkPoolWorker-336] process exiting with exitcode 0
+Rate 171.90277485584
+UpFitness 100
+DownFitness 74
+Generation 4 is end. Gen_End_Time: 316.04646253585815
+Average 68.8012203646
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.018097639083862305
+rol is end. rol_End_Time: 0.0034830570220947266
+[INFO/ForkPoolWorker-341] child process calling self.run()
+[INFO/ForkPoolWorker-342] child process calling self.run()
+[INFO/ForkPoolWorker-343] child process calling self.run()
+[INFO/ForkPoolWorker-345] child process calling self.run()
+[INFO/ForkPoolWorker-344] child process calling self.run()
+[INFO/ForkPoolWorker-342] process shutting down
+[INFO/ForkPoolWorker-342] process exiting with exitcode 0
+[INFO/ForkPoolWorker-343] process shutting down
+[INFO/ForkPoolWorker-345] process shutting down
+[INFO/ForkPoolWorker-343] process exiting with exitcode 0
+[INFO/ForkPoolWorker-345] process exiting with exitcode 0
+[INFO/ForkPoolWorker-344] process shutting down
+[INFO/ForkPoolWorker-344] process exiting with exitcode 0
+[INFO/ForkPoolWorker-341] process shutting down
+[INFO/ForkPoolWorker-341] process exiting with exitcode 0
+Rate 187.0526978318785
+UpFitness 125
+DownFitness 109
+Generation 5 is end. Gen_End_Time: 275.36480474472046
+Average 71.5440179673
+Degenerated gen kill 11
+RouletteSelection is end. RolInit_End_Time: 0.019219160079956055
+rol is end. rol_End_Time: 0.005234241485595703
+[INFO/ForkPoolWorker-346] child process calling self.run()
+[INFO/ForkPoolWorker-347] child process calling self.run()
+[INFO/ForkPoolWorker-348] child process calling self.run()
+[INFO/ForkPoolWorker-349] child process calling self.run()
+[INFO/ForkPoolWorker-350] child process calling self.run()
+[INFO/ForkPoolWorker-347] process shutting down
+[INFO/ForkPoolWorker-347] process exiting with exitcode 0
+[INFO/ForkPoolWorker-346] process shutting down
+[INFO/ForkPoolWorker-346] process exiting with exitcode 0
+Rate 207.4403808468963
+UpFitness 103
+DownFitness 60
+[INFO/ForkPoolWorker-350] process shutting down
+[INFO/ForkPoolWorker-350] process exiting with exitcode 0
+[INFO/ForkPoolWorker-348] process shutting down
+[INFO/ForkPoolWorker-348] process exiting with exitcode 0
+[INFO/ForkPoolWorker-349] process shutting down
+[INFO/ForkPoolWorker-349] process exiting with exitcode 0
+Generation 6 is end. Gen_End_Time: 262.4374086856842
+Average 82.8190323507
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.019974708557128906
+rol is end. rol_End_Time: 0.003854513168334961
+[INFO/ForkPoolWorker-351] child process calling self.run()
+[INFO/ForkPoolWorker-352] child process calling self.run()
+[INFO/ForkPoolWorker-353] child process calling self.run()
+[INFO/ForkPoolWorker-354] child process calling self.run()
+[INFO/ForkPoolWorker-355] child process calling self.run()
+[INFO/ForkPoolWorker-352] process shutting down
+[INFO/ForkPoolWorker-352] process exiting with exitcode 0
+[INFO/ForkPoolWorker-353] process shutting down
+[INFO/ForkPoolWorker-353] process exiting with exitcode 0
+[INFO/ForkPoolWorker-354] process shutting down
+[INFO/ForkPoolWorker-355] process shutting down
+[INFO/ForkPoolWorker-355] process exiting with exitcode 0
+[INFO/ForkPoolWorker-354] process exiting with exitcode 0
+[INFO/ForkPoolWorker-351] process shutting down
+[INFO/ForkPoolWorker-351] process exiting with exitcode 0
+Rate 185.95103413927473
+UpFitness 114
+DownFitness 90
+Generation 7 is end. Gen_End_Time: 243.7983124256134
+Average 85.917223622
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.023788928985595703
+rol is end. rol_End_Time: 0.00542759895324707
+[INFO/ForkPoolWorker-356] child process calling self.run()
+[INFO/ForkPoolWorker-357] child process calling self.run()
+[INFO/ForkPoolWorker-358] child process calling self.run()
+[INFO/ForkPoolWorker-359] child process calling self.run()
+[INFO/ForkPoolWorker-360] child process calling self.run()
+[INFO/ForkPoolWorker-357] process shutting down
+[INFO/ForkPoolWorker-358] process shutting down
+[INFO/ForkPoolWorker-357] process exiting with exitcode 0
+[INFO/ForkPoolWorker-358] process exiting with exitcode 0
+[INFO/ForkPoolWorker-359] process shutting down
+[INFO/ForkPoolWorker-359] process exiting with exitcode 0
+[INFO/ForkPoolWorker-360] process shutting down
+[INFO/ForkPoolWorker-360] process exiting with exitcode 0
+[INFO/ForkPoolWorker-356] process shutting down
+[INFO/ForkPoolWorker-356] process exiting with exitcode 0
+Rate 232.25985873413921
+UpFitness 22
+DownFitness 0
+Generation 8 is end. Gen_End_Time: 205.7342095375061
+Average 95.507846112
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.019211292266845703
+rol is end. rol_End_Time: 0.0036859512329101562
+[INFO/ForkPoolWorker-362] child process calling self.run()
+[INFO/ForkPoolWorker-361] child process calling self.run()
+[INFO/ForkPoolWorker-363] child process calling self.run()
+[INFO/ForkPoolWorker-364] child process calling self.run()
+[INFO/ForkPoolWorker-365] child process calling self.run()
+[INFO/ForkPoolWorker-361] process shutting down
+[INFO/ForkPoolWorker-363] process shutting down
+[INFO/ForkPoolWorker-363] process exiting with exitcode 0
+[INFO/ForkPoolWorker-364] process shutting down
+[INFO/ForkPoolWorker-364] process exiting with exitcode 0
+[INFO/ForkPoolWorker-361] process exiting with exitcode 0
+[INFO/ForkPoolWorker-365] process shutting down
+[INFO/ForkPoolWorker-365] process exiting with exitcode 0
+[INFO/ForkPoolWorker-362] process shutting down
+[INFO/ForkPoolWorker-362] process exiting with exitcode 0
+Rate 207.7449555688654
+UpFitness 122
+DownFitness 91
+Generation 9 is end. Gen_End_Time: 184.1873652935028
+Average 95.2471969899
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020659208297729492
+rol is end. rol_End_Time: 0.0037069320678710938
+[INFO/ForkPoolWorker-366] child process calling self.run()
+[INFO/ForkPoolWorker-367] child process calling self.run()
+[INFO/ForkPoolWorker-368] child process calling self.run()
+[INFO/ForkPoolWorker-369] child process calling self.run()
+[INFO/ForkPoolWorker-370] child process calling self.run()
+[INFO/ForkPoolWorker-367] process shutting down
+[INFO/ForkPoolWorker-367] process exiting with exitcode 0
+[INFO/ForkPoolWorker-368] process shutting down
+[INFO/ForkPoolWorker-368] process exiting with exitcode 0
+[INFO/ForkPoolWorker-369] process shutting down
+[INFO/ForkPoolWorker-369] process exiting with exitcode 0
+[INFO/ForkPoolWorker-370] process shutting down
+[INFO/ForkPoolWorker-370] process exiting with exitcode 0
+[INFO/ForkPoolWorker-366] process shutting down
+[INFO/ForkPoolWorker-366] process exiting with exitcode 0
+Rate 218.8702853230011
+UpFitness 124
+DownFitness 88
+Generation 10 is end. Gen_End_Time: 182.63919758796692
+Average 95.4373933439
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.019863367080688477
+rol is end. rol_End_Time: 0.0038306713104248047
+[INFO/ForkPoolWorker-371] child process calling self.run()
+[INFO/ForkPoolWorker-372] child process calling self.run()
+[INFO/ForkPoolWorker-373] child process calling self.run()
+[INFO/ForkPoolWorker-374] child process calling self.run()
+[INFO/ForkPoolWorker-375] child process calling self.run()
+[INFO/ForkPoolWorker-372] process shutting down
+[INFO/ForkPoolWorker-372] process exiting with exitcode 0
+[INFO/ForkPoolWorker-374] process shutting down
+[INFO/ForkPoolWorker-375] process shutting down
+[INFO/ForkPoolWorker-374] process exiting with exitcode 0
+[INFO/ForkPoolWorker-375] process exiting with exitcode 0
+[INFO/ForkPoolWorker-373] process shutting down
+[INFO/ForkPoolWorker-373] process exiting with exitcode 0
+[INFO/ForkPoolWorker-371] process shutting down
+[INFO/ForkPoolWorker-371] process exiting with exitcode 0
+Rate 189.46052888854882
+UpFitness 110
+DownFitness 81
+Generation 11 is end. Gen_End_Time: 168.21283197402954
+Average 94.8014975534
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.0193941593170166
+rol is end. rol_End_Time: 0.003844022750854492
+[INFO/ForkPoolWorker-376] child process calling self.run()
+[INFO/ForkPoolWorker-377] child process calling self.run()
+[INFO/ForkPoolWorker-378] child process calling self.run()
+[INFO/ForkPoolWorker-379] child process calling self.run()
+[INFO/ForkPoolWorker-380] child process calling self.run()
+[INFO/ForkPoolWorker-377] process shutting down
+[INFO/ForkPoolWorker-377] process exiting with exitcode 0
+[INFO/ForkPoolWorker-378] process shutting down
+[INFO/ForkPoolWorker-379] process shutting down
+[INFO/ForkPoolWorker-378] process exiting with exitcode 0
+[INFO/ForkPoolWorker-379] process exiting with exitcode 0
+[INFO/ForkPoolWorker-380] process shutting down
+[INFO/ForkPoolWorker-380] process exiting with exitcode 0
+[INFO/ForkPoolWorker-376] process shutting down
+[INFO/ForkPoolWorker-376] process exiting with exitcode 0
+Rate 165.99843945036633
+UpFitness 84
+DownFitness 51
+Generation 12 is end. Gen_End_Time: 154.05828285217285
+Average 101.074355407
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.019486665725708008
+rol is end. rol_End_Time: 0.003762960433959961
+[INFO/ForkPoolWorker-381] child process calling self.run()
+[INFO/ForkPoolWorker-382] child process calling self.run()
+[INFO/ForkPoolWorker-383] child process calling self.run()
+[INFO/ForkPoolWorker-384] child process calling self.run()
+[INFO/ForkPoolWorker-385] child process calling self.run()
+[INFO/ForkPoolWorker-382] process shutting down
+[INFO/ForkPoolWorker-383] process shutting down
+[INFO/ForkPoolWorker-382] process exiting with exitcode 0
+[INFO/ForkPoolWorker-383] process exiting with exitcode 0
+[INFO/ForkPoolWorker-384] process shutting down
+[INFO/ForkPoolWorker-384] process exiting with exitcode 0
+[INFO/ForkPoolWorker-385] process shutting down
+[INFO/ForkPoolWorker-385] process exiting with exitcode 0
+[INFO/ForkPoolWorker-381] process shutting down
+[INFO/ForkPoolWorker-381] process exiting with exitcode 0
+Rate 190.5193044173726
+UpFitness 108
+DownFitness 77
+Generation 13 is end. Gen_End_Time: 144.54203701019287
+Average 101.963396866
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.01924610137939453
+rol is end. rol_End_Time: 0.0037822723388671875
+[INFO/ForkPoolWorker-386] child process calling self.run()
+[INFO/ForkPoolWorker-387] child process calling self.run()
+[INFO/ForkPoolWorker-388] child process calling self.run()
+[INFO/ForkPoolWorker-390] child process calling self.run()
+[INFO/ForkPoolWorker-389] child process calling self.run()
+[INFO/ForkPoolWorker-387] process shutting down
+[INFO/ForkPoolWorker-387] process exiting with exitcode 0
+[INFO/ForkPoolWorker-388] process shutting down
+[INFO/ForkPoolWorker-388] process exiting with exitcode 0
+[INFO/ForkPoolWorker-390] process shutting down
+[INFO/ForkPoolWorker-390] process exiting with exitcode 0
+[INFO/ForkPoolWorker-389] process shutting down
+[INFO/ForkPoolWorker-389] process exiting with exitcode 0
+[INFO/ForkPoolWorker-386] process shutting down
+[INFO/ForkPoolWorker-386] process exiting with exitcode 0
+Rate 218.73361287228914
+UpFitness 21
+DownFitness 0
+Generation 14 is end. Gen_End_Time: 144.43017053604126
+Average 106.930121368
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.020334243774414062
+rol is end. rol_End_Time: 0.0038809776306152344
+[INFO/ForkPoolWorker-391] child process calling self.run()
+[INFO/ForkPoolWorker-392] child process calling self.run()
+[INFO/ForkPoolWorker-393] child process calling self.run()
+[INFO/ForkPoolWorker-394] child process calling self.run()
+[INFO/ForkPoolWorker-395] child process calling self.run()
+[INFO/ForkPoolWorker-392] process shutting down
+[INFO/ForkPoolWorker-392] process exiting with exitcode 0
+[INFO/ForkPoolWorker-393] process shutting down
+[INFO/ForkPoolWorker-393] process exiting with exitcode 0
+[INFO/ForkPoolWorker-394] process shutting down
+[INFO/ForkPoolWorker-394] process exiting with exitcode 0
+[INFO/ForkPoolWorker-395] process shutting down
+[INFO/ForkPoolWorker-395] process exiting with exitcode 0
+[INFO/ForkPoolWorker-391] process shutting down
+[INFO/ForkPoolWorker-391] process exiting with exitcode 0
+Rate 216.02319807601202
+UpFitness 130
+DownFitness 100
+Generation 15 is end. Gen_End_Time: 130.98471879959106
+Average 104.849195157
+Degenerated gen kill 10
+RouletteSelection is end. RolInit_End_Time: 0.019301176071166992
+rol is end. rol_End_Time: 0.003561258316040039
+[INFO/ForkPoolWorker-396] child process calling self.run()
+[INFO/ForkPoolWorker-397] child process calling self.run()
+[INFO/ForkPoolWorker-398] child process calling self.run()
+[INFO/ForkPoolWorker-399] child process calling self.run()
+[INFO/ForkPoolWorker-400] child process calling self.run()
+[INFO/ForkPoolWorker-397] process shutting down
+[INFO/ForkPoolWorker-397] process exiting with exitcode 0
+[INFO/ForkPoolWorker-398] process shutting down
+[INFO/ForkPoolWorker-398] process exiting with exitcode 0
+[INFO/ForkPoolWorker-399] process shutting down
+[INFO/ForkPoolWorker-399] process exiting with exitcode 0
+[INFO/ForkPoolWorker-400] process shutting down
+[INFO/ForkPoolWorker-400] process exiting with exitcode 0
+[INFO/ForkPoolWorker-396] process shutting down
+[INFO/ForkPoolWorker-396] process exiting with exitcode 0
+Rate 231.4932533201274
+UpFitness 124
+DownFitness 81
+Generation 16 is end. Gen_End_Time: 119.75998616218567
+Average 117.206012879
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.019244909286499023
+rol is end. rol_End_Time: 0.0035076141357421875
+[INFO/ForkPoolWorker-401] child process calling self.run()
+[INFO/ForkPoolWorker-402] child process calling self.run()
+[INFO/ForkPoolWorker-403] child process calling self.run()
+[INFO/ForkPoolWorker-404] child process calling self.run()
+[INFO/ForkPoolWorker-405] child process calling self.run()
+[INFO/ForkPoolWorker-402] process shutting down
+[INFO/ForkPoolWorker-402] process exiting with exitcode 0
+[INFO/ForkPoolWorker-404] process shutting down
+[INFO/ForkPoolWorker-404] process exiting with exitcode 0
+[INFO/ForkPoolWorker-405] process shutting down
+[INFO/ForkPoolWorker-405] process exiting with exitcode 0
+[INFO/ForkPoolWorker-403] process shutting down
+[INFO/ForkPoolWorker-403] process exiting with exitcode 0
+[INFO/ForkPoolWorker-401] process shutting down
+[INFO/ForkPoolWorker-401] process exiting with exitcode 0
+Rate 231.4932533201274
+UpFitness 124
+DownFitness 81
+Generation 17 is end. Gen_End_Time: 125.25219297409058
+Average 117.096123665
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.03348422050476074
+rol is end. rol_End_Time: 0.0051190853118896484
+[INFO/ForkPoolWorker-406] child process calling self.run()
+[INFO/ForkPoolWorker-407] child process calling self.run()
+[INFO/ForkPoolWorker-408] child process calling self.run()
+[INFO/ForkPoolWorker-409] child process calling self.run()
+[INFO/ForkPoolWorker-410] child process calling self.run()
+[INFO/ForkPoolWorker-407] process shutting down
+[INFO/ForkPoolWorker-407] process exiting with exitcode 0
+[INFO/ForkPoolWorker-408] process shutting down
+[INFO/ForkPoolWorker-408] process exiting with exitcode 0
+[INFO/ForkPoolWorker-409] process shutting down
+[INFO/ForkPoolWorker-409] process exiting with exitcode 0
+[INFO/ForkPoolWorker-410] process shutting down
+[INFO/ForkPoolWorker-410] process exiting with exitcode 0
+[INFO/ForkPoolWorker-406] process shutting down
+[INFO/ForkPoolWorker-406] process exiting with exitcode 0
+Rate 236.23651715089636
+UpFitness 128
+DownFitness 85
+Generation 18 is end. Gen_End_Time: 118.19534587860107
+Average 120.955596226
+Degenerated gen kill 3
+RouletteSelection is end. RolInit_End_Time: 0.02085113525390625
+rol is end. rol_End_Time: 0.0035185813903808594
+[INFO/ForkPoolWorker-411] child process calling self.run()
+[INFO/ForkPoolWorker-412] child process calling self.run()
+[INFO/ForkPoolWorker-413] child process calling self.run()
+[INFO/ForkPoolWorker-414] child process calling self.run()
+[INFO/ForkPoolWorker-415] child process calling self.run()
+[INFO/ForkPoolWorker-412] process shutting down
+[INFO/ForkPoolWorker-413] process shutting down
+[INFO/ForkPoolWorker-412] process exiting with exitcode 0
+[INFO/ForkPoolWorker-413] process exiting with exitcode 0
+[INFO/ForkPoolWorker-414] process shutting down
+[INFO/ForkPoolWorker-415] process shutting down
+[INFO/ForkPoolWorker-414] process exiting with exitcode 0
+[INFO/ForkPoolWorker-415] process exiting with exitcode 0
+[INFO/ForkPoolWorker-411] process shutting down
+[INFO/ForkPoolWorker-411] process exiting with exitcode 0
+Rate 226.73274382377542
+UpFitness 129
+DownFitness 92
+Generation 19 is end. Gen_End_Time: 110.32001376152039
+Average 123.79860259
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.022194385528564453
+rol is end. rol_End_Time: 0.005594968795776367
+[INFO/ForkPoolWorker-416] child process calling self.run()
+[INFO/ForkPoolWorker-417] child process calling self.run()
+[INFO/ForkPoolWorker-418] child process calling self.run()
+[INFO/ForkPoolWorker-419] child process calling self.run()
+[INFO/ForkPoolWorker-420] child process calling self.run()
+[INFO/ForkPoolWorker-417] process shutting down
+[INFO/ForkPoolWorker-418] process shutting down
+[INFO/ForkPoolWorker-417] process exiting with exitcode 0
+[INFO/ForkPoolWorker-418] process exiting with exitcode 0
+[INFO/ForkPoolWorker-419] process shutting down
+[INFO/ForkPoolWorker-419] process exiting with exitcode 0
+[INFO/ForkPoolWorker-420] process shutting down
+[INFO/ForkPoolWorker-420] process exiting with exitcode 0
+[INFO/ForkPoolWorker-416] process shutting down
+[INFO/ForkPoolWorker-416] process exiting with exitcode 0
+Rate 229.7045711347031
+UpFitness 130
+DownFitness 92
+Generation 20 is end. Gen_End_Time: 103.87622594833374
+Average 124.138995192
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.019956111907958984
+rol is end. rol_End_Time: 0.0036993026733398438
+[INFO/ForkPoolWorker-421] child process calling self.run()
+[INFO/ForkPoolWorker-422] child process calling self.run()
+[INFO/ForkPoolWorker-423] child process calling self.run()
+[INFO/ForkPoolWorker-424] child process calling self.run()
+[INFO/ForkPoolWorker-425] child process calling self.run()
+[INFO/ForkPoolWorker-422] process shutting down
+[INFO/ForkPoolWorker-422] process exiting with exitcode 0
+[INFO/ForkPoolWorker-423] process shutting down
+[INFO/ForkPoolWorker-423] process exiting with exitcode 0
+[INFO/ForkPoolWorker-424] process shutting down
+[INFO/ForkPoolWorker-424] process exiting with exitcode 0
+[INFO/ForkPoolWorker-425] process shutting down
+[INFO/ForkPoolWorker-425] process exiting with exitcode 0
+[INFO/ForkPoolWorker-421] process shutting down
+[INFO/ForkPoolWorker-421] process exiting with exitcode 0
+Rate 223.76484439244842
+UpFitness 128
+DownFitness 92
+Generation 21 is end. Gen_End_Time: 89.0722222328186
+Average 134.89335965
+Degenerated gen kill 5
+RouletteSelection is end. RolInit_End_Time: 0.029588699340820312
+rol is end. rol_End_Time: 0.005828142166137695
+[INFO/ForkPoolWorker-426] child process calling self.run()
+[INFO/ForkPoolWorker-427] child process calling self.run()
+[INFO/ForkPoolWorker-428] child process calling self.run()
+[INFO/ForkPoolWorker-429] child process calling self.run()
+[INFO/ForkPoolWorker-430] child process calling self.run()
+[INFO/ForkPoolWorker-427] process shutting down
+[INFO/ForkPoolWorker-428] process shutting down
+[INFO/ForkPoolWorker-427] process exiting with exitcode 0
+[INFO/ForkPoolWorker-428] process exiting with exitcode 0
+[INFO/ForkPoolWorker-429] process shutting down
+[INFO/ForkPoolWorker-429] process exiting with exitcode 0
+[INFO/ForkPoolWorker-430] process shutting down
+[INFO/ForkPoolWorker-430] process exiting with exitcode 0
+[INFO/ForkPoolWorker-426] process shutting down
+[INFO/ForkPoolWorker-426] process exiting with exitcode 0
+Rate 224.80408729629505
+UpFitness 133
+DownFitness 100
+Generation 22 is end. Gen_End_Time: 81.15902161598206
+Average 136.187921698
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.018308401107788086
+rol is end. rol_End_Time: 0.0031425952911376953
+[INFO/ForkPoolWorker-431] child process calling self.run()
+[INFO/ForkPoolWorker-432] child process calling self.run()
+[INFO/ForkPoolWorker-433] child process calling self.run()
+[INFO/ForkPoolWorker-434] child process calling self.run()
+[INFO/ForkPoolWorker-435] child process calling self.run()
+[INFO/ForkPoolWorker-432] process shutting down
+[INFO/ForkPoolWorker-433] process shutting down
+[INFO/ForkPoolWorker-432] process exiting with exitcode 0
+[INFO/ForkPoolWorker-433] process exiting with exitcode 0
+[INFO/ForkPoolWorker-434] process shutting down
+[INFO/ForkPoolWorker-434] process exiting with exitcode 0
+[INFO/ForkPoolWorker-435] process shutting down
+[INFO/ForkPoolWorker-435] process exiting with exitcode 0
+[INFO/ForkPoolWorker-431] process shutting down
+[INFO/ForkPoolWorker-431] process exiting with exitcode 0
+Rate 226.73274382377542
+UpFitness 129
+DownFitness 92
+Generation 23 is end. Gen_End_Time: 77.44301533699036
+Average 145.662947743
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.01926732063293457
+rol is end. rol_End_Time: 0.0037641525268554688
+[INFO/ForkPoolWorker-436] child process calling self.run()
+[INFO/ForkPoolWorker-438] child process calling self.run()
+[INFO/ForkPoolWorker-437] child process calling self.run()
+[INFO/ForkPoolWorker-439] child process calling self.run()
+[INFO/ForkPoolWorker-440] child process calling self.run()
+[INFO/ForkPoolWorker-438] process shutting down
+[INFO/ForkPoolWorker-438] process exiting with exitcode 0
+[INFO/ForkPoolWorker-437] process shutting down
+[INFO/ForkPoolWorker-437] process exiting with exitcode 0
+[INFO/ForkPoolWorker-439] process shutting down
+[INFO/ForkPoolWorker-440] process shutting down
+[INFO/ForkPoolWorker-439] process exiting with exitcode 0
+[INFO/ForkPoolWorker-440] process exiting with exitcode 0
+[INFO/ForkPoolWorker-436] process shutting down
+[INFO/ForkPoolWorker-436] process exiting with exitcode 0
+Rate 228.68179353701953
+UpFitness 132
+DownFitness 96
+Generation 24 is end. Gen_End_Time: 66.51653242111206
+Average 153.913062218
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.019683122634887695
+rol is end. rol_End_Time: 0.003559589385986328
+[INFO/ForkPoolWorker-441] child process calling self.run()
+[INFO/ForkPoolWorker-442] child process calling self.run()
+[INFO/ForkPoolWorker-443] child process calling self.run()
+[INFO/ForkPoolWorker-444] child process calling self.run()
+[INFO/ForkPoolWorker-445] child process calling self.run()
+[INFO/ForkPoolWorker-442] process shutting down
+[INFO/ForkPoolWorker-443] process shutting down
+[INFO/ForkPoolWorker-442] process exiting with exitcode 0
+[INFO/ForkPoolWorker-443] process exiting with exitcode 0
+[INFO/ForkPoolWorker-444] process shutting down
+[INFO/ForkPoolWorker-445] process shutting down
+[INFO/ForkPoolWorker-444] process exiting with exitcode 0
+[INFO/ForkPoolWorker-445] process exiting with exitcode 0
+[INFO/ForkPoolWorker-441] process shutting down
+[INFO/ForkPoolWorker-441] process exiting with exitcode 0
+Rate 227.95700745985704
+UpFitness 130
+DownFitness 93
+Generation 25 is end. Gen_End_Time: 60.27609634399414
+Average 162.775918977
+Degenerated gen kill 13
+RouletteSelection is end. RolInit_End_Time: 0.0186767578125
+rol is end. rol_End_Time: 0.0032286643981933594
+[INFO/ForkPoolWorker-446] child process calling self.run()
+[INFO/ForkPoolWorker-447] child process calling self.run()
+[INFO/ForkPoolWorker-448] child process calling self.run()
+[INFO/ForkPoolWorker-449] child process calling self.run()
+[INFO/ForkPoolWorker-450] child process calling self.run()
+[INFO/ForkPoolWorker-447] process shutting down
+[INFO/ForkPoolWorker-448] process shutting down
+[INFO/ForkPoolWorker-447] process exiting with exitcode 0
+[INFO/ForkPoolWorker-449] process shutting down
+[INFO/ForkPoolWorker-449] process exiting with exitcode 0
+[INFO/ForkPoolWorker-450] process shutting down
+[INFO/ForkPoolWorker-450] process exiting with exitcode 0
+[INFO/ForkPoolWorker-448] process exiting with exitcode 0
+[INFO/ForkPoolWorker-446] process shutting down
+[INFO/ForkPoolWorker-446] process exiting with exitcode 0
+Rate 230.92581758333438
+UpFitness 131
+DownFitness 93
+Generation 26 is end. Gen_End_Time: 58.48551797866821
+Average 167.816089663
+Degenerated gen kill 12
+RouletteSelection is end. RolInit_End_Time: 0.019444704055786133
+rol is end. rol_End_Time: 0.0036034584045410156
+[INFO/ForkPoolWorker-451] child process calling self.run()
+[INFO/ForkPoolWorker-452] child process calling self.run()
+[INFO/ForkPoolWorker-453] child process calling self.run()
+[INFO/ForkPoolWorker-454] child process calling self.run()
+[INFO/ForkPoolWorker-455] child process calling self.run()
+[INFO/ForkPoolWorker-452] process shutting down
+[INFO/ForkPoolWorker-452] process exiting with exitcode 0
+[INFO/ForkPoolWorker-453] process shutting down
+[INFO/ForkPoolWorker-453] process exiting with exitcode 0
+[INFO/ForkPoolWorker-454] process shutting down
+[INFO/ForkPoolWorker-454] process exiting with exitcode 0
+[INFO/ForkPoolWorker-455] process shutting down
+[INFO/ForkPoolWorker-455] process exiting with exitcode 0
+[INFO/ForkPoolWorker-451] process shutting down
+[INFO/ForkPoolWorker-451] process exiting with exitcode 0
+Rate 229.7045711347031
+UpFitness 130
+DownFitness 92
+Generation 27 is end. Gen_End_Time: 58.46814036369324
+Average 175.823959676
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.02662348747253418
+rol is end. rol_End_Time: 0.003434896469116211
+[INFO/ForkPoolWorker-456] child process calling self.run()
+[INFO/ForkPoolWorker-457] child process calling self.run()
+[INFO/ForkPoolWorker-458] child process calling self.run()
+[INFO/ForkPoolWorker-459] child process calling self.run()
+[INFO/ForkPoolWorker-460] child process calling self.run()
+[INFO/ForkPoolWorker-457] process shutting down
+[INFO/ForkPoolWorker-457] process exiting with exitcode 0
+[INFO/ForkPoolWorker-458] process shutting down
+[INFO/ForkPoolWorker-458] process exiting with exitcode 0
+[INFO/ForkPoolWorker-459] process shutting down
+[INFO/ForkPoolWorker-459] process exiting with exitcode 0
+[INFO/ForkPoolWorker-460] process shutting down
+[INFO/ForkPoolWorker-460] process exiting with exitcode 0
+[INFO/ForkPoolWorker-456] process shutting down
+[INFO/ForkPoolWorker-456] process exiting with exitcode 0
+Rate 229.7045711347031
+UpFitness 130
+DownFitness 92
+Generation 28 is end. Gen_End_Time: 56.96543788909912
+Average 180.208790142
+Degenerated gen kill 6
+RouletteSelection is end. RolInit_End_Time: 0.020762920379638672
+rol is end. rol_End_Time: 0.0035903453826904297
+[INFO/ForkPoolWorker-461] child process calling self.run()
+[INFO/ForkPoolWorker-462] child process calling self.run()
+[INFO/ForkPoolWorker-463] child process calling self.run()
+[INFO/ForkPoolWorker-464] child process calling self.run()
+[INFO/ForkPoolWorker-465] child process calling self.run()
+[INFO/ForkPoolWorker-462] process shutting down
+[INFO/ForkPoolWorker-463] process shutting down
+[INFO/ForkPoolWorker-462] process exiting with exitcode 0
+[INFO/ForkPoolWorker-463] process exiting with exitcode 0
+[INFO/ForkPoolWorker-464] process shutting down
+[INFO/ForkPoolWorker-464] process exiting with exitcode 0
+[INFO/ForkPoolWorker-465] process shutting down
+[INFO/ForkPoolWorker-465] process exiting with exitcode 0
+[INFO/ForkPoolWorker-461] process shutting down
+[INFO/ForkPoolWorker-461] process exiting with exitcode 0
+Rate 232.14853245999512
+UpFitness 132
+DownFitness 94
+Generation 29 is end. Gen_End_Time: 57.66237258911133
+Average 183.89352681
+[['SAR' 'AVGPRICE' 'ADD' 'MULT' 'SQRT' 'MEDPRICE' 'MEDPRICE' 'LN'
+  'HT_TRENDLINE' 'HT_TRENDLINE']]
+Time 5410.0962018966675
+MAVP is unstable. Pass
+90
+(100, 10, 2190) (100, 10)
+Up days: 1184
+[INFO/ForkPoolWorker-466] child process calling self.run()
+[INFO/ForkPoolWorker-467] child process calling self.run()
+[INFO/ForkPoolWorker-468] child process calling self.run()
+[INFO/ForkPoolWorker-469] child process calling self.run()
+[INFO/ForkPoolWorker-470] child process calling self.run()
+[INFO/ForkPoolWorker-471] child process calling self.run()
+[INFO/ForkPoolWorker-467] process shutting down
+[INFO/ForkPoolWorker-467] process exiting with exitcode 0
+[INFO/ForkPoolWorker-468] process shutting down
+[INFO/ForkPoolWorker-468] process exiting with exitcode 0
+[INFO/ForkPoolWorker-469] process shutting down
+[INFO/ForkPoolWorker-469] process exiting with exitcode 0
+[INFO/ForkPoolWorker-470] process shutting down
+[INFO/ForkPoolWorker-471] process shutting down
+[INFO/ForkPoolWorker-471] process exiting with exitcode 0
+[INFO/ForkPoolWorker-470] process exiting with exitcode 0
+[INFO/ForkPoolWorker-466] process shutting down
+[INFO/ForkPoolWorker-466] process exiting with exitcode 0
+Rate 116.94732459028845
+UpFitness 13
+DownFitness 0
+Generation -1 is end. Gen_End_Time: 419.28748536109924
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.01787734031677246
+rol is end. rol_End_Time: 0.0035424232482910156
+[INFO/ForkPoolWorker-472] child process calling self.run()
+[INFO/ForkPoolWorker-473] child process calling self.run()
+[INFO/ForkPoolWorker-474] child process calling self.run()
+[INFO/ForkPoolWorker-475] child process calling self.run()
+[INFO/ForkPoolWorker-476] child process calling self.run()
+[INFO/ForkPoolWorker-477] child process calling self.run()
+[INFO/ForkPoolWorker-473] process shutting down
+[INFO/ForkPoolWorker-473] process exiting with exitcode 0
+[INFO/ForkPoolWorker-474] process shutting down
+[INFO/ForkPoolWorker-474] process exiting with exitcode 0
+[INFO/ForkPoolWorker-475] process shutting down
+[INFO/ForkPoolWorker-475] process exiting with exitcode 0
+[INFO/ForkPoolWorker-476] process shutting down
+[INFO/ForkPoolWorker-477] process shutting down
+[INFO/ForkPoolWorker-476] process exiting with exitcode 0
+[INFO/ForkPoolWorker-477] process exiting with exitcode 0
+[INFO/ForkPoolWorker-472] process shutting down
+[INFO/ForkPoolWorker-472] process exiting with exitcode 0
+Rate 128.09824704397803
+UpFitness 73
+DownFitness 53
+Generation 0 is end. Gen_End_Time: 465.37451696395874
+Average 53.8011823703
+Degenerated gen kill 4
+RouletteSelection is end. RolInit_End_Time: 0.023344993591308594
+rol is end. rol_End_Time: 0.003990650177001953
+[INFO/ForkPoolWorker-478] child process calling self.run()
+[INFO/ForkPoolWorker-479] child process calling self.run()
+[INFO/ForkPoolWorker-480] child process calling self.run()
+[INFO/ForkPoolWorker-481] child process calling self.run()
+[INFO/ForkPoolWorker-482] child process calling self.run()
+[INFO/ForkPoolWorker-483] child process calling self.run()
+[INFO/ForkPoolWorker-479] process shutting down
+[INFO/ForkPoolWorker-480] process shutting down
+[INFO/ForkPoolWorker-479] process exiting with exitcode 0
+[INFO/ForkPoolWorker-480] process exiting with exitcode 0
+[INFO/ForkPoolWorker-481] process shutting down
+[INFO/ForkPoolWorker-481] process exiting with exitcode 0
+[INFO/ForkPoolWorker-482] process shutting down
+[INFO/ForkPoolWorker-482] process exiting with exitcode 0
+[INFO/ForkPoolWorker-483] process shutting down
+[INFO/ForkPoolWorker-483] process exiting with exitcode 0
+[INFO/ForkPoolWorker-478] process shutting down
+[INFO/ForkPoolWorker-478] process exiting with exitcode 0
+Rate 165.86965053019372
+UpFitness 89
+DownFitness 59
+Generation 1 is end. Gen_End_Time: 428.39872765541077
+Average 56.2670774067
+Degenerated gen kill 8
+RouletteSelection is end. RolInit_End_Time: 0.02065896987915039
+rol is end. rol_End_Time: 0.003664255142211914
+[INFO/ForkPoolWorker-484] child process calling self.run()
+[INFO/ForkPoolWorker-485] child process calling self.run()
+[INFO/ForkPoolWorker-486] child process calling self.run()
+[INFO/ForkPoolWorker-487] child process calling self.run()
+[INFO/ForkPoolWorker-488] child process calling self.run()
+[INFO/ForkPoolWorker-489] child process calling self.run()
+[INFO/ForkPoolWorker-485] process shutting down
+[INFO/ForkPoolWorker-486] process shutting down
+[INFO/ForkPoolWorker-485] process exiting with exitcode 0
+[INFO/ForkPoolWorker-486] process exiting with exitcode 0
+[INFO/ForkPoolWorker-487] process shutting down
+[INFO/ForkPoolWorker-487] process exiting with exitcode 0
+[INFO/ForkPoolWorker-488] process shutting down
+[INFO/ForkPoolWorker-488] process exiting with exitcode 0
+[INFO/ForkPoolWorker-489] process shutting down
+[INFO/ForkPoolWorker-489] process exiting with exitcode 0
+[INFO/ForkPoolWorker-484] process shutting down
+[INFO/ForkPoolWorker-484] process exiting with exitcode 0
+Rate 123.25936077621517
+UpFitness 31
+DownFitness 5
+Generation 2 is end. Gen_End_Time: 419.62900853157043
+Average 56.296900258
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.020157575607299805
+rol is end. rol_End_Time: 0.003284454345703125
+[INFO/ForkPoolWorker-490] child process calling self.run()
+[INFO/ForkPoolWorker-491] child process calling self.run()
+[INFO/ForkPoolWorker-492] child process calling self.run()
+[INFO/ForkPoolWorker-493] child process calling self.run()
+[INFO/ForkPoolWorker-494] child process calling self.run()
+[INFO/ForkPoolWorker-495] child process calling self.run()
+[INFO/ForkPoolWorker-491] process shutting down
+[INFO/ForkPoolWorker-492] process shutting down
+[INFO/ForkPoolWorker-491] process exiting with exitcode 0
+[INFO/ForkPoolWorker-492] process exiting with exitcode 0
+[INFO/ForkPoolWorker-493] process shutting down
+[INFO/ForkPoolWorker-493] process exiting with exitcode 0
+[INFO/ForkPoolWorker-494] process shutting down
+[INFO/ForkPoolWorker-494] process exiting with exitcode 0
+[INFO/ForkPoolWorker-495] process shutting down
+[INFO/ForkPoolWorker-495] process exiting with exitcode 0
+[INFO/ForkPoolWorker-490] process shutting down
+[INFO/ForkPoolWorker-490] process exiting with exitcode 0
+Rate 129.84385179493057
+UpFitness 48
+DownFitness 17
+Generation 3 is end. Gen_End_Time: 399.89069652557373
+Average 61.3208539931
+Degenerated gen kill 9
+RouletteSelection is end. RolInit_End_Time: 0.018310070037841797
+rol is end. rol_End_Time: 0.003386974334716797
+[INFO/ForkPoolWorker-496] child process calling self.run()
+[INFO/ForkPoolWorker-497] child process calling self.run()
+[INFO/ForkPoolWorker-498] child process calling self.run()
+[INFO/ForkPoolWorker-499] child process calling self.run()
+[INFO/ForkPoolWorker-500] child process calling self.run()
+[INFO/ForkPoolWorker-501] child process calling self.run()
+[INFO/ForkPoolWorker-497] process shutting down
+[INFO/ForkPoolWorker-497] process exiting with exitcode 0
+[INFO/ForkPoolWorker-498] process shutting down
+[INFO/ForkPoolWorker-499] process shutting down
+[INFO/ForkPoolWorker-498] process exiting with exitcode 0
+[INFO/ForkPoolWorker-499] process exiting with exitcode 0
+[INFO/ForkPoolWorker-500] process shutting down
+[INFO/ForkPoolWorker-500] process exiting with exitcode 0
+[INFO/ForkPoolWorker-501] process shutting down
+[INFO/ForkPoolWorker-501] process exiting with exitcode 0
+[INFO/ForkPoolWorker-496] process shutting down
+[INFO/ForkPoolWorker-496] process exiting with exitcode 0
+Rate 146.97497464741883
+UpFitness 91
+DownFitness 73
+Generation 4 is end. Gen_End_Time: 370.8054287433624
+Average 62.1589577031
+Degenerated gen kill 7
+RouletteSelection is end. RolInit_End_Time: 0.020855188369750977
+rol is end. rol_End_Time: 0.003770589828491211
+[INFO/ForkPoolWorker-502] child process calling self.run()
+[INFO/ForkPoolWorker-503] child process calling self.run()
+[INFO/ForkPoolWorker-504] child process calling self.run()
+[INFO/ForkPoolWorker-505] child process calling self.run()
+[INFO/ForkPoolWorker-506] child process calling self.run()
+[INFO/ForkPoolWorker-507] child process calling self.run()

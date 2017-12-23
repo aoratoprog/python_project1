@@ -1,0 +1,614 @@
+Start time:   {0}
+Run time:     265.5422306060791 seconds
+Max Profit:   104.428323654
+
+Start time:   {0}
+Run time:     376.7386236190796 seconds
+Max Profit:   105.61915159
+
+Start time:   {0}
+Run time:     293.720055103302 seconds
+Max Profit:   106.073003058
+
+INFO:root:2017-10-28 08:06:08.423810
+INFO:root:Start time:   2017-10-28 08:06:08.424253
+INFO:root:Run time:     363.0417926311493 seconds
+INFO:root:Max Profit:   105.61221871318489 
+
+INFO:root:2017-10-28 10:55:31.128977
+INFO:root:Start time:   2017-10-28 10:55:31.129388
+INFO:root:Run time:     291.4978857040405 seconds
+INFO:root:Max Profit:   106.06808779666808 
+
+INFO:root:2017-10-28 11:00:39.432775
+INFO:root:Start time:   2017-10-28 11:00:39.433222
+INFO:root:Run time:     273.68667483329773 seconds
+INFO:root:Max Profit:   104.03528752859982 
+
+INFO:root:2017-10-28 11:22:55.487136
+INFO:root:Start time:   2017-10-28 11:22:55.488093
+INFO:root:Run time:     275.1975393295288 seconds
+INFO:root:Max Profit:   104.03528752859982 
+
+INFO:root:2017-10-28 11:33:16.107516
+INFO:root:Start time:   2017-10-28 11:33:16.107895
+INFO:root:Run time:     275.2565960884094 seconds
+INFO:root:Max Profit:   104.17277910182516 
+
+INFO:root:2017-10-29 04:41:53.347826
+INFO:root:End time:     2017-10-29 04:41:53.348203
+INFO:root:Run time:     284.3382954597473 seconds
+INFO:root:Max Profit:   104.20665213106945 
+
+INFO:root:2017-10-29 04:59:10.983851
+INFO:root:End time:     2017-10-29 04:59:10.984109
+INFO:root:Run time:     293.80514574050903 seconds
+INFO:root:Max Profit:   104.27156761394745 
+
+INFO:root:2017-10-29 05:06:42.853665
+INFO:root:End time:     2017-10-29 05:06:42.853921
+INFO:root:Run time:     283.95005464553833 seconds
+INFO:root:Max Profit:   105.60467672175051 
+
+INFO:root:2017-10-29 05:12:08.271540
+INFO:root:End time:     2017-10-29 05:12:08.271998
+INFO:root:Run time:     281.918221950531 seconds
+INFO:root:Max Profit:   104.47749692017982 
+
+INFO:root:2017-10-29 10:23:29.205303
+INFO:root:GENERATION:   100
+INFO:root:End time:     2017-10-29 10:23:29.206147
+INFO:root:Run time:     839.2582743167877 seconds
+INFO:root:Max Profit:   111.42409849011962 
+
+INFO:root:2017-11-03 11:39:59.349086
+INFO:root:GENERATION:   100
+INFO:root:GENS:         100
+INFO:root:GENLEN:       10
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-03 11:39:59.351000
+INFO:root:Run time:     577.5544762611389 seconds
+INFO:root:Max Profit:   100.0 
+
+INFO:root:2017-11-05 11:01:22.900051
+INFO:root:GENERATION:   100
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-05 11:01:22.900912
+INFO:root:Run time:     1110.9432218074799 seconds
+INFO:root:Max Profit:   689.4205233664048 
+
+INFO:root:2017-11-05 11:24:05.950753
+INFO:root:GENERATION:   100
+INFO:root:GENS:         100
+INFO:root:GENLEN:       10
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-05 11:24:05.951356
+INFO:root:Run time:     1147.3731005191803 seconds
+INFO:root:Max Profit:   950.3086873998539 
+
+INFO:root:2017-11-05 12:05:49.007756
+INFO:root:GENERATION:   200
+INFO:root:GENS:         100
+INFO:root:GENLEN:       10
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-05 12:05:49.008536
+INFO:root:Run time:     2099.831321954727 seconds
+INFO:root:Max Profit:   1740.1048837084365 
+
+INFO:root:2017-11-06 10:25:10.005348
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       3
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 10:25:10.005886
+INFO:root:Run time:     1048.9068126678467 seconds
+INFO:root:Max Profit:   558.1699283162616 
+
+INFO:root:2017-11-06 10:42:44.787506
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       3
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 10:42:44.788293
+INFO:root:Run time:     1054.7814643383026 seconds
+INFO:root:Max Profit:   694.9349312576084 
+
+INFO:root:2017-11-06 10:52:31.161606
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       3
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 10:52:31.162010
+INFO:root:Run time:     586.3731508255005 seconds
+INFO:root:Max Profit:   214.81261153020262 
+
+INFO:root:2017-11-06 11:02:12.417254
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       3
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 11:02:12.417644
+INFO:root:Run time:     581.2551085948944 seconds
+INFO:root:Max Profit:   358.4773064571587 
+
+INFO:root:2017-11-06 11:18:21.798822
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 11:18:21.800282
+INFO:root:Run time:     969.3810245990753 seconds
+INFO:root:Max Profit:   700.393157075834 
+
+INFO:root:2017-11-06 11:31:24.236998
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 11:31:24.237795
+INFO:root:Run time:     782.4364724159241 seconds
+INFO:root:Max Profit:   680.0102748197494 
+
+INFO:root:2017-11-06 11:41:46.814419
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 11:41:46.815176
+INFO:root:Run time:     622.5764651298523 seconds
+INFO:root:Max Profit:   872.542871280546 
+
+INFO:root:2017-11-06 11:51:35.692734
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 11:51:35.693375
+INFO:root:Run time:     588.8773210048676 seconds
+INFO:root:Max Profit:   220.41103831638839 
+
+INFO:root:2017-11-06 12:10:08.778663
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       7
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 12:10:08.779248
+INFO:root:Run time:     1113.0850994586945 seconds
+INFO:root:Max Profit:   699.3207104993432 
+
+INFO:root:2017-11-06 12:21:07.462018
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       7
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 12:21:07.462558
+INFO:root:Run time:     658.6825387477875 seconds
+INFO:root:Max Profit:   543.2263220762447 
+
+INFO:root:2017-11-06 12:31:28.228115
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       7
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 12:31:28.228730
+INFO:root:Run time:     620.7654094696045 seconds
+INFO:root:Max Profit:   349.1846256501151 
+
+INFO:root:2017-11-06 12:41:18.327870
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       7
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 12:41:18.328357
+INFO:root:Run time:     590.0989530086517 seconds
+INFO:root:Max Profit:   143.8216258028911 
+
+INFO:root:2017-11-06 13:00:04.992525
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       9
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 13:00:04.993083
+INFO:root:Run time:     1126.6639964580536 seconds
+INFO:root:Max Profit:   706.1421366802363 
+
+INFO:root:2017-11-06 13:12:38.222379
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       9
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 13:12:38.222972
+INFO:root:Run time:     753.2291266918182 seconds
+INFO:root:Max Profit:   407.95242109836653 
+
+INFO:root:2017-11-06 13:22:46.972190
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       9
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 13:22:46.973954
+INFO:root:Run time:     608.7490277290344 seconds
+INFO:root:Max Profit:   205.63387033315766 
+
+INFO:root:2017-11-06 13:32:37.991533
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       9
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 13:32:37.992249
+INFO:root:Run time:     591.0173487663269 seconds
+INFO:root:Max Profit:   120.83999170411256 
+
+INFO:root:2017-11-06 13:51:33.510660
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       11
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 13:51:33.511199
+INFO:root:Run time:     1135.5181908607483 seconds
+INFO:root:Max Profit:   699.5705684530001 
+
+INFO:root:2017-11-06 14:05:20.025398
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       11
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 14:05:20.026124
+INFO:root:Run time:     826.5140433311462 seconds
+INFO:root:Max Profit:   543.3822644246598 
+
+INFO:root:2017-11-06 14:15:56.242623
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       11
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 14:15:56.243144
+INFO:root:Run time:     636.2162647247314 seconds
+INFO:root:Max Profit:   426.3964181646837 
+
+INFO:root:2017-11-06 14:25:58.777333
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       11
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 14:25:58.777807
+INFO:root:Run time:     602.5340502262115 seconds
+INFO:root:Max Profit:   120.950833845096 
+
+INFO:root:2017-11-06 14:44:43.166726
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       15
+INFO:root:FITPER:       0.4
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 14:44:43.167266
+INFO:root:Run time:     1124.38876414299 seconds
+INFO:root:Max Profit:   704.4795359968707 
+
+INFO:root:2017-11-06 14:58:05.601933
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       15
+INFO:root:FITPER:       0.6
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 14:58:05.602513
+INFO:root:Run time:     802.4344975948334 seconds
+INFO:root:Max Profit:   481.61757946181075 
+
+INFO:root:2017-11-06 15:08:29.388836
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       15
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 15:08:29.389527
+INFO:root:Run time:     623.7861595153809 seconds
+INFO:root:Max Profit:   256.65752551917956 
+
+INFO:root:2017-11-06 15:18:36.363189
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       15
+INFO:root:FITPER:       1
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-06 15:18:36.363738
+INFO:root:Run time:     606.9734489917755 seconds
+INFO:root:Max Profit:   108.84676928446342 
+
+INFO:root:2017-11-07 10:21:03.812725
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.71
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 10:21:03.822983
+INFO:root:Run time:     712.2976496219635 seconds
+INFO:root:Max Profit:   876.0057872148827 
+
+INFO:root:2017-11-07 10:33:10.707121
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.72
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 10:33:10.707724
+INFO:root:Run time:     726.8838880062103 seconds
+INFO:root:Max Profit:   581.363468487658 
+
+INFO:root:2017-11-07 10:44:16.516099
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.73
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 10:44:16.516700
+INFO:root:Run time:     665.8082218170166 seconds
+INFO:root:Max Profit:   412.10973755238837 
+
+INFO:root:2017-11-07 10:56:07.338957
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.74
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 10:56:07.339498
+INFO:root:Run time:     710.8221001625061 seconds
+INFO:root:Max Profit:   507.65139135372897 
+
+INFO:root:2017-11-07 11:07:28.898021
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.75
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 11:07:28.898539
+INFO:root:Run time:     681.5583894252777 seconds
+INFO:root:Max Profit:   506.9072883893784 
+
+INFO:root:2017-11-07 11:25:35.198771
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.76
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 11:25:35.215550
+INFO:root:Run time:     1086.3000860214233 seconds
+INFO:root:Max Profit:   672.5226494220392 
+
+INFO:root:2017-11-07 11:36:44.903848
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.77
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 11:36:44.904361
+INFO:root:Run time:     669.6880609989166 seconds
+INFO:root:Max Profit:   495.00480666462596 
+
+INFO:root:2017-11-07 11:47:55.300280
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.78
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 11:47:55.300996
+INFO:root:Run time:     670.3957810401917 seconds
+INFO:root:Max Profit:   433.6388513505459 
+
+INFO:root:2017-11-07 11:59:06.487358
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.79
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 11:59:06.487900
+INFO:root:Run time:     671.1861348152161 seconds
+INFO:root:Max Profit:   454.77281860260325 
+
+INFO:root:2017-11-07 12:09:15.186779
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 12:09:15.187272
+INFO:root:Run time:     608.6987438201904 seconds
+INFO:root:Max Profit:   344.3484604240368 
+
+INFO:root:2017-11-07 12:20:06.975490
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.81
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 12:20:06.976167
+INFO:root:Run time:     651.7880659103394 seconds
+INFO:root:Max Profit:   386.9290056273768 
+
+INFO:root:2017-11-07 12:30:02.955836
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.82
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 12:30:02.956323
+INFO:root:Run time:     595.9795188903809 seconds
+INFO:root:Max Profit:   133.40211255758626 
+
+INFO:root:2017-11-07 12:40:20.820878
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.83
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 12:40:20.821461
+INFO:root:Run time:     617.8644118309021 seconds
+INFO:root:Max Profit:   212.73900846556685 
+
+INFO:root:2017-11-07 12:50:36.147084
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.84
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 12:50:36.147766
+INFO:root:Run time:     615.3254723548889 seconds
+INFO:root:Max Profit:   189.63078611916788 
+
+INFO:root:2017-11-07 13:00:55.146356
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.85
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:00:55.146825
+INFO:root:Run time:     618.9984457492828 seconds
+INFO:root:Max Profit:   197.69564073887057 
+
+INFO:root:2017-11-07 13:10:58.577533
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.86
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:10:58.578001
+INFO:root:Run time:     603.4305770397186 seconds
+INFO:root:Max Profit:   158.98269538018081 
+
+INFO:root:2017-11-07 13:21:24.987710
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.87
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:21:24.988186
+INFO:root:Run time:     626.4095778465271 seconds
+INFO:root:Max Profit:   218.56476552391857 
+
+INFO:root:2017-11-07 13:31:26.849810
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.88
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:31:26.850331
+INFO:root:Run time:     601.8614869117737 seconds
+INFO:root:Max Profit:   168.0418489520492 
+
+INFO:root:2017-11-07 13:42:05.445832
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.89
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:42:05.446352
+INFO:root:Run time:     638.5953524112701 seconds
+INFO:root:Max Profit:   325.86265321881143 
+
+INFO:root:2017-11-07 13:52:05.538231
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.9
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 13:52:05.538694
+INFO:root:Run time:     600.0917444229126 seconds
+INFO:root:Max Profit:   139.32505005184174 
+
+INFO:root:2017-11-07 16:05:33.968968
+INFO:root:GENERATION:   1000
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-07 16:05:33.969431
+INFO:root:Run time:     8008.43014216423 seconds
+INFO:root:Max Profit:   7556.053947963449 
+
+INFO:root:2017-11-08 11:37:32.927856
+INFO:root:Non mutation.
+INFO:root:GENERATION:   70
+INFO:root:GENS:         100
+INFO:root:GENLEN:       5
+INFO:root:FITPER:       0.8
+INFO:root:PROFIT_RATE:  1.02
+INFO:root:ONE_DAY_TIME: 6
+INFO:root:End time:     2017-11-08 11:37:32.928913
+INFO:root:Run time:     611.8845400810242 seconds
+INFO:root:Max Profit:   166.59137531649012 
+
